@@ -105,7 +105,7 @@ const DIAGNOSIS_BANK = [
   "Kawasaki's",
   "mono", 
   "ebv infection", 
-  "epstein-barr virus infection",
+  "epstein-barr virus infection"
 ];
 
 
