@@ -97,7 +97,10 @@ const DIAGNOSIS_BANK = [
   "Septic arthritis",
   "Osteomyelitis",
   "Slipped capital femoral epiphysis",
-  "Legg-Calve-Perthes disease"
+  "Legg-Calve-Perthes disease",
+  "Laryngotracheitis",
+  "Viral croup",
+  "Acute laryngotracheitis"
 ];
 
 
