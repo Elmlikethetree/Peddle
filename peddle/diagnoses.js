@@ -103,6 +103,9 @@ const DIAGNOSIS_BANK = [
   "Acute laryngotracheitis"
   "kawasaki syndrome", 
   "Kawasaki's",
+  "mono", 
+  "ebv infection", 
+  "epstein-barr virus infection",
 ];
 
 
