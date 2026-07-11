@@ -100,7 +100,7 @@ const DIAGNOSIS_BANK = [
   "Legg-Calve-Perthes disease",
   "Laryngotracheitis",
   "Viral croup",
-  "Acute laryngotracheitis"
+  "Acute laryngotracheitis",
   "Kawasaki syndrome", 
   "Kawasakis",
   "Mono", 
