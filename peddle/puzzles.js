@@ -103,21 +103,25 @@ const PUZZLES = [
     accepted: ["mono", "ebv infection", "epstein-barr virus infection"],
     explanation: "Posterior cervical lymphadenopathy, splenomegaly, and a positive monospot in a young adult are classic for EBV-driven mononucleosis — splenomegaly is why contact sports are restricted during recovery."
   },
-  {
-    id: "2026-07-11",
-    date: "2026-07-11",
-    hints: [
-      "A 45-year-old man presents with sudden-onset crushing chest pain radiating to his left arm.",
-      "He is diaphoretic and describes associated nausea.",
-      "ECG shows ST-segment elevation in leads II, III, and aVF.",
-      "Troponin returns markedly elevated.",
-      "Emergent coronary angiography reveals a total occlusion of the right coronary artery."
-    ],
-    answer: "Inferior ST-elevation myocardial infarction",
-    accepted: ["stemi", "inferior stemi", "inferior mi", "myocardial infarction"],
-    explanation: "ST elevation localized to II, III, and aVF points to inferior wall involvement, classically from an occluded right coronary artery."
-    
-  },
+{
+  id: "2026-07-11",
+  date: "2026-07-11",
+  hints: [
+    "A previously healthy 2-year-old boy presents with a 3-day history of fever followed by a barking cough.",
+    "His parents report noisy breathing that becomes worse when he cries.",
+    "On examination, he has inspiratory stridor at rest and mild intercostal retractions.",
+    "His oxygen saturation is 97% on room air, and lung auscultation is otherwise clear.",
+    "He improves after receiving nebulized epinephrine and a dose of dexamethasone."
+  ],
+  answer: "Croup",
+  accepted: [
+    "croup",
+    "laryngotracheitis",
+    "viral croup",
+    "acute laryngotracheitis"
+  ],
+  explanation: "Croup is a viral laryngotracheitis, most commonly caused by parainfluenza virus. It classically presents in children aged 6 months to 3 years with a barking cough, inspiratory stridor, and hoarseness. Treatment includes dexamethasone for all severities and nebulized epinephrine for moderate to severe disease."
+},
   {
     id: "2026-08-12",
     date: "2026-08-12",
