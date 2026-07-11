@@ -101,11 +101,7 @@ const DIAGNOSIS_BANK = [
   "Laryngotracheitis",
   "Viral croup",
   "Acute laryngotracheitis",
-  "Kawasaki syndrome", 
-  "Kawasakis",
-  "Mono", 
-  "Ebv infection", 
-  "Epstein-barr virus infection"
+  "Epstein-barr virus (EBV) infection"
 ];
 
 
