@@ -39,5 +39,5 @@ const DIAGNOSIS_BANK = [
   "Cellulitis", "Necrotizing fasciitis", "Erysipelas",
   "Ectopic pregnancy", "Ovarian torsion", "Pelvic inflammatory disease", "Preeclampsia",
   "Placental abruption", "Endometriosis",
-  "Testicular torsion", "Epididymitis", "Benign prostatic hyperplasia", "Poopy butt syndrome (PBS)", "SUPER poopy butt syndrome (S-PBS)"
+  "Testicular torsion", "Epididymitis", "Benign prostatic hyperplasia", "Poopy butt syndrome (PBS)", "SUPER poopy butt syndrome (S-PBS)", "Stillbirth"
 ];
