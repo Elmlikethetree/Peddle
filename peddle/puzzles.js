@@ -93,7 +93,7 @@ const PUZZLES = [
     id: "2026-07-10",
     date: "2026-07-10",
     hints: [
-      "A 19-year-old college student presents with sore throat and fatigue for a week.",
+      "A 17-year-old college student presents with sore throat and fatigue for a week.",
       "He also reports low-grade fevers and feeling 'too tired to go to class.'",
       "Exam shows tonsillar exudates and prominent posterior cervical lymphadenopathy.",
       "There is mild splenomegaly on abdominal exam.",
@@ -122,18 +122,5 @@ const PUZZLES = [
   ],
   explanation: "Croup is a viral laryngotracheitis, most commonly caused by parainfluenza virus. It classically presents in children aged 6 months to 3 years with a barking cough, inspiratory stridor, and hoarseness. Treatment includes dexamethasone for all severities and nebulized epinephrine for moderate to severe disease."
 },
-  {
-    id: "2026-08-12",
-    date: "2026-08-12",
-    hints: [
-      "Test1",
-      "Test2",
-      "Test3",
-      "Test4",
-      "Test5"
-    ],
-    answer: "Poopy Butt Syndrome TWO (PBS-II)",
-    accepted: ["PBSII"],
-    explanation: "It is what it is."
-  },
+
 ];
