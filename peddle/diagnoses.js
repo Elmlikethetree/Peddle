@@ -102,7 +102,7 @@ const DIAGNOSIS_BANK = [
   "Viral croup",
   "Acute laryngotracheitis"
   "kawasaki syndrome", 
-  "Kawasaki's",
+  "Kawasakis",
   "mono", 
   "ebv infection", 
   "epstein-barr virus infection"
