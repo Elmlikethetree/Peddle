@@ -101,6 +101,8 @@ const DIAGNOSIS_BANK = [
   "Laryngotracheitis",
   "Viral croup",
   "Acute laryngotracheitis"
+  "kawasaki syndrome", 
+  "Kawasaki's",
 ];
 
 
