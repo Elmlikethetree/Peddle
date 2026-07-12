@@ -98,8 +98,6 @@ const DIAGNOSIS_BANK = [
   "Osteomyelitis",
   "Slipped capital femoral epiphysis",
   "Legg-Calve-Perthes disease",
-  "Laryngotracheitis",
-  "Viral croup",
   "Acute laryngotracheitis",
   "Epstein-barr virus (EBV) infection"
 ];
