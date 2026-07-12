@@ -51,20 +51,18 @@ const PUZZLES = [
   id: "2026-07-13",
   date: "2026-07-13",
   hints: [
-    "A previously healthy 2-year-old boy presents with a 3-day history of fever followed by a barking cough.",
-    "His parents report noisy breathing that becomes worse when he cries.",
-    "On examination, he has inspiratory stridor at rest and mild intercostal retractions.",
-    "His oxygen saturation is 97% on room air, and lung auscultation is otherwise clear.",
+    "A previously healthy 2-year-old boy with a 36 hour history of nasal congestion and rhinorrhea now presents with fever and hoarseness.",
+    "His parents report frequent barky coughing and noisy breathing that becomes worse when he cries.",
+    "On examination, he has inspiratory stridor at rest and moderate intercostal retractions.",
+    "His oxygen saturation is 97% on room air and on auscultation the lungs sound clear aside from some transmitted upper airway sounds.",
     "He improves after receiving nebulized epinephrine and a dose of dexamethasone."
   ],
   answer: "Croup",
   accepted: [
     "croup",
     "laryngotracheitis",
-    "viral croup",
-    "acute laryngotracheitis"
   ],
-  explanation: "Croup is a viral laryngotracheitis, most commonly caused by parainfluenza virus. It classically presents in children aged 6 months to 3 years with a barking cough, inspiratory stridor, and hoarseness. Treatment includes dexamethasone for all severities and nebulized epinephrine for moderate to severe disease."
+  explanation: "Croup is a respiratory illness characterized by inspiratory stridor, barking cough, and hoarseness resulting from inflammation in the larynx and subglottic airway, most commonly caused by parainfluenza virus. It occurs mostly in fall/early winter in children ≤6 years old, with a peak incidence between 6 months to 3 years of age. Treatment includes dexamethasone for all severities and nebulized epinephrine for moderate to severe disease."
 },
 
 ];
