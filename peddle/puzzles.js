@@ -45,7 +45,7 @@ const PUZZLES = [
     ],
     answer: "Infectious mononucleosis",
     accepted: ["mono", "ebv infection", "epstein-barr virus infection"],
-    explanation: "Infectious mononucleosis is characterized by fever, pharyngitis, fatigue, and cervical lymphadenopathy. Some patients may also have splenomegaly and pharyngeal inflammation with tonsillar exudates and/or palatal petechiae. Common laboratory findings include lymphocytosis, atypical lymphocytes, and elevated aminotransferases. Positive EBV-specific antibodies or heterophile antibodies confirm a diagnosis of IM in the appropriate clinical context."
+    explanation: "Infectious mononucleosis is characterized by fever, pharyngitis, fatigue, and cervical lymphadenopathy. Some patients may also have splenomegaly and pharyngeal inflammation with tonsillar exudates and/or palatal petechiae. Common laboratory findings include lymphocytosis, atypical lymphocytes, and elevated aminotransferases. Positive EBV-specific antibodies or heterophile antibodies confirm the diagnosis in the appropriate clinical context."
   },
 {
   id: "2026-07-13",
@@ -64,5 +64,21 @@ const PUZZLES = [
   ],
   explanation: "Croup is a respiratory illness characterized by inspiratory stridor, barking cough, and hoarseness resulting from inflammation in the larynx and subglottic airway, most commonly caused by parainfluenza virus. It occurs mostly in fall/early winter in children ≤6 years old, with a peak incidence between 6 months to 3 years of age. Treatment includes dexamethasone for all severities and nebulized epinephrine for moderate to severe disease."
 },
+{
+  id: "2026-07-14",
+  date: "2026-07-14",
+  hints: [
+    "A previously healthy 4-year-old boy presents with swelling around his eyes when he wakes up in the morning.",
+    "Over the course of the day, the periorbital edema improves but he progressively develops soft pitting edema in his lower extremities.",
+    "His blood pressure is within normal range and he does not have gross hematuria.",
+    "Urinalysis shows 4+ protein and bloodwork shows normal kidney function and complement levels but markedly decreased serum albumin.",
+    "He responds rapidly to glucocorticoid therapy and does not require a kidney biopsy or genetic testing."
+  ],
+  answer: "Minimal Change Disease (MCD)",
+  accepted: [
+    "nephrotic syndrome",
 
+  ],
+  explanation: "Minimal change disease is the most common cause of nephrotic syndrome in children, especially between 1 to 12 years of age. It's characterized by nephrotic-range proteinuria, hypoalbuminemia, and edema."
+}
 ];
