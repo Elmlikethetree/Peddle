@@ -58,10 +58,7 @@ const PUZZLES = [
     "He improves after receiving nebulized epinephrine and a dose of dexamethasone."
   ],
   answer: "Croup",
-  accepted: [
-    "croup",
-    "laryngotracheitis",
-  ],
+  accepted: ["Acute laryngotracheitis"],
   explanation: "Croup is a respiratory illness characterized by inspiratory stridor, barking cough, and hoarseness resulting from inflammation in the larynx and subglottic airway, most commonly caused by parainfluenza virus. It occurs mostly in fall/early winter in children ≤6 years old, with a peak incidence between 6 months to 3 years of age. Treatment includes dexamethasone for all severities and nebulized epinephrine for moderate to severe disease."
 },
 {
@@ -75,10 +72,7 @@ const PUZZLES = [
     "He responds rapidly to glucocorticoid therapy and does not require a kidney biopsy or genetic testing."
   ],
   answer: "Minimal change disease (MCD)",
-  accepted: [
-    "nephrotic syndrome",
-
-  ],
+  accepted: ["Nephrotic syndrome"],
   explanation: "Minimal change disease is the most common cause of nephrotic syndrome in children, especially between 1 to 12 years of age. It's characterized by nephrotic-range proteinuria, hypoalbuminemia, and edema."
 }
 ];
