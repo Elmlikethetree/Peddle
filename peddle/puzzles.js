@@ -74,7 +74,7 @@ const PUZZLES = [
     "Urinalysis shows 4+ protein and bloodwork shows normal kidney function and complement levels but markedly decreased serum albumin.",
     "He responds rapidly to glucocorticoid therapy and does not require a kidney biopsy or genetic testing."
   ],
-  answer: "Minimal Change Disease (MCD)",
+  answer: "Minimal change disease (MCD)",
   accepted: [
     "nephrotic syndrome",
 
