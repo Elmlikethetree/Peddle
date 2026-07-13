@@ -9,7 +9,6 @@
 const DIAGNOSIS_BANK = [
   "Acute otitis media",
   "Otitis externa",
-  "Viral upper respiratory tract infection",
   "Acute bacterial sinusitis",
   "Streptococcal pharyngitis",
   "Viral pharyngitis",
