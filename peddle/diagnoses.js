@@ -99,7 +99,10 @@ const DIAGNOSIS_BANK = [
   "Slipped capital femoral epiphysis",
   "Legg-Calve-Perthes disease",
   "Acute laryngotracheitis",
-  "Epstein-barr virus (EBV) infection"
+  "Epstein-barr virus (EBV) infection",
+  "Minimal change disease (MCD)",
+  "Membranoproliferative glomerulonephritis (MPGN)", 
+  "Focal segmental glomerulosclerosis (FSGS)"
 ];
 
 
