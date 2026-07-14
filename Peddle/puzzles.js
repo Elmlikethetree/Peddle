@@ -103,4 +103,46 @@ const PUZZLES = [
   accepted: ["Eczema"],
   explanation: "Diagnostic criteria include a chronic or relapsing history of pruritic eczematous dermatitis with facial, neck, and extensor involvement in infants and children and flexoral lesions in any age group. Regular emollients are generally sufficient to maintain remission in mild disease but patients with moderate to severe dermatitis rarely clear without topical corticosteroids."
 }
+{
+  id: "2026-07-17",
+  date: "2026-07-17",
+  hints: [
+    "A 14-year-old girl presents with recurrent episodes of severe headache that have been occurring for the past year.",
+    "The headaches are unilateral, throbbing, and are associated with nausea, photophobia, and phonophobia.",
+    "She reports seeing flashing lights in her vision shortly before some of the episodes begin.",
+    "Her neurological examination is completely normal and the headaches resolve after several hours of rest.",
+    "She is advised to avoid known triggers and is prescribed an abortive medication to take at the onset of future episodes."
+  ],
+  answer: "Migraine",
+  accepted: ["Migraine headache"],
+  explanation: "Migraine is a common primary headache disorder characterized by recurrent unilateral, pulsatile headaches associated with nausea, vomiting, photophobia, and phonophobia. Some patients experience an aura, such as visual disturbances, before the headache begins. Neuroimaging is generally not indicated when the history is typical and the neurological examination is normal."
+},
+{
+  id: "2026-07-18",
+  date: "2026-07-18",
+  hints: [
+    "A 7-year-old boy presents with a several-month history of a painless limp that worsens with physical activity.",
+    "His parents have noticed that he occasionally complains of pain in his groin and knee despite no history of trauma.",
+    "On examination, he has decreased internal rotation and abduction of the affected hip.",
+    "Plain radiographs demonstrate flattening and fragmentation of the femoral head due to avascular necrosis.",
+    "Management focuses on maintaining hip range of motion and preserving the shape of the femoral head while it heals."
+  ],
+  answer: "Legg-Calvé-Perthes disease",
+  accepted: ["Perthes disease", "Leg Calve Perthes disease", "Legg Perthes disease"],
+  explanation: "Legg-Calvé-Perthes disease is idiopathic avascular necrosis of the femoral head, typically affecting children between 4 and 8 years of age. It presents with an insidious limp, hip or referred knee pain, and restricted hip motion. Early diagnosis and management aim to preserve femoral head sphericity and optimize long-term hip function."
+},
+{
+  id: "2026-07-19",
+  date: "2026-07-19",
+  hints: [
+    "A previously healthy 11-month-old girl is brought to clinic after three days of high fever reaching 40°C.",
+    "Despite the fever, she remained playful and continued drinking fluids with no localizing signs of infection.",
+    "The fever resolves abruptly, and within hours she develops a diffuse pink maculopapular rash that begins on her trunk and spreads to her neck and extremities.",
+    "She is otherwise well appearing, and the rash is non-pruritic and blanches with pressure.",
+    "Her parents are reassured that the illness is self-limited and requires only supportive care."
+  ],
+  answer: "Roseola",
+  accepted: ["Roseola infantum", "Exanthem subitum", "HHV-6 infection"],
+  explanation: "Roseola (exanthem subitum) is most commonly caused by human herpesvirus 6 (HHV-6) and typically affects children between 6 months and 2 years of age. It classically presents with several days of high fever followed by abrupt defervescence and the appearance of a blanching maculopapular rash that begins on the trunk. Management is supportive, and the prognosis is excellent."
+}
 ];
