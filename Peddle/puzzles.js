@@ -89,4 +89,18 @@ const PUZZLES = [
   accepted: ["Febrile seizure"],
   explanation: "Simple febrile seizures commonly occur in children between 6 months and 5 years of age and is characterized by a generalized seizure that last less than 15 minutes, occur without focal features, are followed by a brief postictal period, and do not recur in a 24-hour period. The risk of developing future epilepsy is approximately 1 to 2 percent, which is only slightly higher than the risk for children without febrile seizures."
 }
+{
+  id: "2026-07-16",
+  date: "2026-07-16",
+  hints: [
+    "A 9-month-old girl with a history of dry skin presents with a recurrent intensely itchy rash characterized by red, scaly, crusted lesions.",
+    "The rash is present on her face, neck, scalp, and extensor surfaces. There is sparing of the diaper area.",
+    "There is a strong family history of asthma and seasonal allergies.",
+    "She is otherwise well, afebrile, and there are no signs of infection.",
+    "The mainstay of treatment is frequent application of emollients and intermittent topical corticosteroids during flares."
+  ],
+  answer: "Atopic dermatitis (AD)",
+  accepted: ["Eczema"],
+  explanation: "Diagnostic criteria include a chronic or relapsing history of pruritic eczematous dermatitis with facial, neck, and extensor involvement in infants and children and flexoral lesions in any age group. Regular emollients are generally sufficient to maintain remission in mild disease but patients with moderate to severe dermatitis rarely clear without topical corticosteroids."
+}
 ];
