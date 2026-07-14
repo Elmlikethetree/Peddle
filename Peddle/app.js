@@ -310,7 +310,14 @@ function wireGuessForm(puzzle, progress) {
       render();
       return;
     }
-
+    
+    // Prevent duplicate incorrect guesses
+    if (progress.guesses.includes(guess)) {
+      input.value = "";
+      updateValidity();
+      return;
+    }
+    
     progress.guesses.push(guess);
     const guessesMade = progress.guesses.length;
     if (guessesMade >= total) {
