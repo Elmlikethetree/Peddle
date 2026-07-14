@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Peddle — daily diagnosis</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon.svg">
+<meta name="theme-color" content="#004C9B">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <div class="logo">
+        <svg width="30" height="22" viewBox="0 0 30 22" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <circle cx="6.5" cy="15.5" r="5" stroke="#004C9B" stroke-width="1.8"/>
+          <circle cx="23.5" cy="15.5" r="5" stroke="#004C9B" stroke-width="1.8"/>
+          <path d="M6.5 15.5L13 5H17M13 5L18 9M18 9L23.5 15.5M18 9L14.5 15.5H6.5" stroke="#004C9B" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+          <path d="M11.5 5H15" stroke="#004C9B" stroke-width="1.8" stroke-linecap="round"/>
+        </svg>
+        <h1>peddle</h1>
+      </div>
+      <nav class="tabs">
+        <button data-view="today" class="active">Today</button>
+        <button data-view="archive">Archive</button>
+      </nav>
+    </header>
+    <div id="root"></div>
+  </div>
+
+  <script src="puzzles.js"></script>
+  <script src="diagnoses.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
