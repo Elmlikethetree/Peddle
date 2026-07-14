@@ -48,8 +48,8 @@ const PUZZLES = [
     explanation: "Infectious mononucleosis is characterized by fever, pharyngitis, fatigue, and cervical lymphadenopathy. Some patients may also have splenomegaly and pharyngeal inflammation with tonsillar exudates and/or palatal petechiae. Common laboratory findings include lymphocytosis, atypical lymphocytes, and elevated aminotransferases. Positive EBV-specific antibodies or heterophile antibodies confirm the diagnosis in the appropriate clinical context."
   },
 {
-  id: "2026-07-14",
-  date: "2026-07-14",
+  id: "2026-07-13",
+  date: "2026-07-13",
   hints: [
     "A previously healthy 2-year-old boy with a 36 hour history of nasal congestion and rhinorrhea now presents with fever and hoarseness.",
     "His parents report frequent barky coughing and noisy breathing that becomes worse when he cries.",
@@ -62,8 +62,8 @@ const PUZZLES = [
   explanation: "Croup is a respiratory illness characterized by inspiratory stridor, barking cough, and hoarseness resulting from inflammation in the larynx and subglottic airway, most commonly caused by parainfluenza virus. It occurs mostly in fall/early winter in children ≤6 years old, with a peak incidence between 6 months to 3 years of age. Treatment includes dexamethasone for all severities and nebulized epinephrine for moderate to severe disease."
 },
 {
-  id: "2026-07-13",
-  date: "2026-07-13",
+  id: "2026-07-14",
+  date: "2026-07-14",
   hints: [
     "A previously healthy 4-year-old boy presents with swelling around his eyes when he wakes up in the morning.",
     "Over the course of the day, the periorbital edema improves but he progressively develops soft pitting edema in his lower extremities.",
