@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Peddle — case builder (private)</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Source+Serif+4&display=swap" rel="stylesheet">
+<style>
+  body { font-family: "Source Serif 4", Georgia, serif; background:#F3EFE6; color:#1E2A32; max-width:680px; margin:2rem auto; padding:0 1rem; }
+  h1 { font-family:"IBM Plex Mono",monospace; font-size:1.1rem; }
+  label { display:block; font-family:"IBM Plex Mono",monospace; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em; margin:1rem 0 0.3rem; }
+  input, textarea { width:100%; padding:0.5rem; font-family:"Source Serif 4",Georgia,serif; font-size:1rem; border:1px solid #C9C1AC; border-radius:4px; background:#fff; }
+  textarea { min-height:3rem; resize:vertical; }
+  .hint-block { border-left:3px solid #C98A2C; padding-left:0.75rem; margin-top:0.5rem; }
+  button { margin-top:1.2rem; font-family:"IBM Plex Mono",monospace; text-transform:uppercase; font-size:0.8rem; background:#1B2733; color:#F3EFE6; border:none; padding:0.6rem 1.1rem; border-radius:4px; cursor:pointer; }
+  #output { margin-top:1.5rem; white-space:pre-wrap; background:#1B2733; color:#EDEAE0; padding:1rem; border-radius:6px; font-family:"IBM Plex Mono",monospace; font-size:0.8rem; }
+  .note { font-family:"IBM Plex Mono",monospace; font-size:0.75rem; color:#7C8A90; margin-top:0.5rem; }
+</style>
+</head>
+<body>
+  <h1>Case builder (keep this file private — don't publish it alongside the game)</h1>
+  <p class="note">Fill this out, click Generate, then copy the output into puzzles.js (add it as a new object inside the PUZZLES array).</p>
+
+  <label>Date this case goes live (YYYY-MM-DD)</label>
+  <input id="date" placeholder="2026-08-01" />
+
+  <div id="hints">
+    <div class="hint-block"><label>Hint 1</label><textarea class="hint"></textarea></div>
+    <div class="hint-block"><label>Hint 2</label><textarea class="hint"></textarea></div>
+    <div class="hint-block"><label>Hint 3</label><textarea class="hint"></textarea></div>
+    <div class="hint-block"><label>Hint 4</label><textarea class="hint"></textarea></div>
+    <div class="hint-block"><label>Hint 5</label><textarea class="hint"></textarea></div>
+  </div>
+  <button id="addHint" type="button" style="background:none;color:#1B2733;border:1px solid #1B2733;">+ Add another hint</button>
+
+  <label>Answer (the diagnosis)</label>
+  <input id="answer" placeholder="Inferior ST-elevation myocardial infarction" />
+
+  <label>Accepted alternates (comma separated — abbreviations, synonyms)</label>
+  <input id="accepted" placeholder="STEMI, inferior MI" />
+
+  <label>Explanation (shown after the case ends)</label>
+  <textarea id="explanation"></textarea>
+
+  <br/>
+  <button id="generate" type="button">Generate entry</button>
+
+  <div id="output" style="display:none;"></div>
+
+  <script>
+    document.getElementById("addHint").addEventListener("click", () => {
+      const container = document.getElementById("hints");
+      const n = container.children.length + 1;
+      const div = document.createElement("div");
+      div.className = "hint-block";
+      div.innerHTML = `<label>Hint ${n}</label><textarea class="hint"></textarea>`;
+      container.appendChild(div);
+    });
+
+    function jsString(s) {
+      return JSON.stringify(s || "");
+    }
+
+    document.getElementById("generate").addEventListener("click", () => {
+      const date = document.getElementById("date").value.trim();
+      const hints = [...document.querySelectorAll(".hint")].map(t => t.value.trim()).filter(Boolean);
+      const answer = document.getElementById("answer").value.trim();
+      const accepted = document.getElementById("accepted").value.split(",").map(s => s.trim()).filter(Boolean);
+      const explanation = document.getElementById("explanation").value.trim();
+
+      if (!date || !hints.length || !answer) {
+        alert("Date, at least one hint, and an answer are required.");
+        return;
+      }
+
+      const entry = `  {
+    id: ${jsString(date)},
+    date: ${jsString(date)},
+    hints: [
+${hints.map(h => "      " + jsString(h)).join(",\n")}
+    ],
+    answer: ${jsString(answer)},
+    accepted: [${accepted.map(jsString).join(", ")}],
+    explanation: ${jsString(explanation)}
+  },`;
+
+      const out = document.getElementById("output");
+      out.style.display = "block";
+      out.textContent = entry;
+    });
+  </script>
+</body>
+</html>
