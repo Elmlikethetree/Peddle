@@ -123,10 +123,9 @@ const PUZZLES = [
   hints: [
     "A previously healthy 7-year-old boy presents with a 2 month history of a minimally painful right limp.",
     "He complains of morning stiffness as well as pain in his groin and right knee with physical activity.",
-    "There is no history of trauma, fever, or other systemic signs or symptoms."
+    "There is no history of trauma, fever, or other systemic signs or symptoms.",
     "On exam, he has decreased internal rotation and abduction of the right hip.",
     "Xray of the right hip reports flattening and fragmentation of the femoral head due to avascular necrosis.",
-    "Management focuses on maintaining hip range of motion and preserving the shape of the femoral head while it heals."
   ],
   answer: "Legg-Calvé-Perthes disease (LCP)",
   accepted: ["Idiopathic avascular necrosis of the hip"],
