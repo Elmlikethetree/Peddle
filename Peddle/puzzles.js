@@ -121,14 +121,15 @@ const PUZZLES = [
   id: "2026-07-18",
   date: "2026-07-18",
   hints: [
-    "A 7-year-old boy presents with a several-month history of a painless limp that worsens with physical activity.",
-    "His parents have noticed that he occasionally complains of pain in his groin and knee despite no history of trauma.",
-    "On examination, he has decreased internal rotation and abduction of the affected hip.",
-    "Plain radiographs demonstrate flattening and fragmentation of the femoral head due to avascular necrosis.",
+    "A previously healthy 7-year-old boy presents with a 2 month history of a minimally painful right limp.",
+    "He complains of morning stiffness as well as pain in his groin and right knee with physical activity.",
+    "There is no history of trauma, fever, or other systemic signs or symptoms."
+    "On exam, he has decreased internal rotation and abduction of the right hip.",
+    "Xray of the right hip reports flattening and fragmentation of the femoral head due to avascular necrosis.",
     "Management focuses on maintaining hip range of motion and preserving the shape of the femoral head while it heals."
   ],
-  answer: "Legg-Calvé-Perthes disease",
-  accepted: ["Perthes disease", "Leg Calve Perthes disease", "Legg Perthes disease"],
+  answer: "Legg-Calvé-Perthes disease (LCP)",
+  accepted: ["Idiopathic avascular necrosis of the hip"],
   explanation: "Legg-Calvé-Perthes disease is idiopathic avascular necrosis of the femoral head, typically affecting children between 4 and 8 years of age. It presents with an insidious limp, hip or referred knee pain, and restricted hip motion. Early diagnosis and management aim to preserve femoral head sphericity and optimize long-term hip function."
 },
 {
