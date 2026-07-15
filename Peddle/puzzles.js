@@ -82,7 +82,7 @@ const PUZZLES = [
     "A previously healthy 15-month-old girl with a one day history of cough and congestion presents to ED for a convulsive episode.",
     "The episode was in keeping with a generalized tonic-clonic seizure and lasted 3 minutes.",
     "After the episode, the patient was drowsy for 5 minutes and then returned to her baseline.",
-    "At triage she has a temperature of 39.5°C and her neurological exam is normal."
+    "At triage she has a temperature of 39.5°C and her neurological exam is normal.",
     "No neuroimaging, EEG, or lumbar puncture is indicated and her parents are reassured about the excellent prognosis."
   ],
   answer: "Simple febrile seizure",
