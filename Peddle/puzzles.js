@@ -74,7 +74,7 @@ const PUZZLES = [
   answer: "Minimal change disease (MCD)",
   accepted: ["Nephrotic syndrome"],
   explanation: "Minimal change disease is the most common cause of nephrotic syndrome in children, especially between 1 to 12 years of age. It's characterized by nephrotic-range proteinuria, hypoalbuminemia, and edema."
-}
+},
 {
   id: "2026-07-15",
   date: "2026-07-15",
@@ -88,7 +88,7 @@ const PUZZLES = [
   answer: "Simple febrile seizure",
   accepted: ["Febrile seizure"],
   explanation: "Simple febrile seizures commonly occur in children between 6 months and 5 years of age and is characterized by a generalized seizure that last less than 15 minutes, occur without focal features, are followed by a brief postictal period, and do not recur in a 24-hour period. The risk of developing future epilepsy is approximately 1 to 2 percent, which is only slightly higher than the risk for children without febrile seizures."
-}
+},
 {
   id: "2026-07-16",
   date: "2026-07-16",
@@ -102,7 +102,7 @@ const PUZZLES = [
   answer: "Atopic dermatitis (AD)",
   accepted: ["Eczema"],
   explanation: "Diagnostic criteria include a chronic or relapsing history of pruritic eczematous dermatitis with facial, neck, and extensor involvement in infants and children and flexoral lesions in any age group. Regular emollients are generally sufficient to maintain remission in mild disease but patients with moderate to severe dermatitis rarely clear without topical corticosteroids."
-}
+},
 {
   id: "2026-07-17",
   date: "2026-07-17",
