@@ -82,7 +82,7 @@ const DIAGNOSIS_BANK = [
   "Encephalitis",
   "Migraine without aura", 
   "Migraine with aura", 
-  "Transient ischemic attack (TIA)"
+  "Transient ischemic attack (TIA)",
   "Tension-type headache (TTH)", 
   "Trigeminal autonomic cephalalgias (TAC)",
   "Cluster headache",
