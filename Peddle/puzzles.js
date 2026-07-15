@@ -108,7 +108,7 @@ const PUZZLES = [
   date: "2026-07-17",
   hints: [
     "An otherwise healthy 7-year-old boy presents with a one year history of recurrent episodes of severe headache.",
-    "Prior to the headaches, he does not have any visual, sensory, motor, or other auras." 
+    "Prior to the headaches, he does not have any visual, sensory, motor, or other auras.",
     "The headaches last 1-2 days and are bifrontal, throbbing, and often associated with nausea.",
     "When you go to examine him, he is laying still in bed with the lights turned off. His neurological exam is completely normal.",
     "First line management includes avoiding triggers and taking Advil/Tylenol at the onset of headache."
