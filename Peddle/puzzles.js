@@ -79,7 +79,7 @@ const PUZZLES = [
   id: "2026-07-15",
   date: "2026-07-15",
   hints: [
-    "A previously healthy 15-month-old girl with a one day history of cough and congestion presents to ED for a convulsive episode.",
+    "A previously healthy 15-month-old girl with a one day history of cough and congestion presents to the ED after a convulsive episode.",
     "The episode was in keeping with a generalized tonic-clonic seizure and lasted 3 minutes.",
     "After the episode, the patient was drowsy for 5 minutes and then returned to her baseline.",
     "At triage she has a temperature of 39.5°C and her neurological exam is normal.",
@@ -95,7 +95,7 @@ const PUZZLES = [
   hints: [
     "A 9-month-old girl with a history of dry skin presents with a recurrent intensely itchy rash characterized by red, scaly, crusted lesions.",
     "The rash is present on her face, neck, scalp, and extensor surfaces. There is sparing of the diaper area.",
-    "There is a strong family history of asthma and seasonal allergies.",
+    "There is a strong family history of asthma, allergic rhinitis, and food allergies.",
     "She is otherwise well, afebrile, and there are no signs of infection.",
     "The mainstay of treatment is frequent application of emollients and intermittent topical corticosteroids during flares."
   ],
@@ -107,15 +107,15 @@ const PUZZLES = [
   id: "2026-07-17",
   date: "2026-07-17",
   hints: [
-    "A 14-year-old girl presents with recurrent episodes of severe headache that have been occurring for the past year.",
-    "The headaches are unilateral, throbbing, and are associated with nausea, photophobia, and phonophobia.",
-    "She reports seeing flashing lights in her vision shortly before some of the episodes begin.",
-    "Her neurological examination is completely normal and the headaches resolve after several hours of rest.",
-    "She is advised to avoid known triggers and is prescribed an abortive medication to take at the onset of future episodes."
+    "An otherwise healthy 7-year-old boy presents with a one year history of recurrent episodes of severe headache.",
+    "Prior to the headaches, he does not have any visual, sensory, motor, or other auras." 
+    "The headaches last 1-2 days and are bifrontal, throbbing, and often associated with nausea.",
+    "When you go to examine him, he is laying still in bed with the lights turned off. His neurological exam is completely normal.",
+    "First line management includes avoiding triggers and taking Advil/Tylenol at the onset of headache."
   ],
-  answer: "Migraine",
+  answer: "Migraine without aura",
   accepted: ["Migraine headache"],
-  explanation: "Migraine is a common primary headache disorder characterized by recurrent unilateral, pulsatile headaches associated with nausea, vomiting, photophobia, and phonophobia. Some patients experience an aura, such as visual disturbances, before the headache begins. Neuroimaging is generally not indicated when the history is typical and the neurological examination is normal."
+  explanation: "Migraine is a primary headache disorder occurring in children and adolescents that is characterized by headache that is often bifrontal/bitemporal/generalized and throbbing in character and accompanied by symptoms such as photophobia, phonophobia, nausea, vomiting, and movement sensitivity. Prior to puberty, females and males are affected equally. Initial treatment for mild migraine is acetaminophen or ibuprofen at onset of symptoms."
 },
 {
   id: "2026-07-18",
