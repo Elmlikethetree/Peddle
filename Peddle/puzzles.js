@@ -144,5 +144,5 @@ const PUZZLES = [
   answer: "Roseola",
   accepted: ["Roseola infantum", "Exanthem subitum", "HHV-6 infection"],
   explanation: "Roseola (exanthem subitum) is most commonly caused by human herpesvirus 6 (HHV-6) and typically affects children between 6 months and 2 years of age. It classically presents with several days of high fever followed by abrupt defervescence and the appearance of a blanching maculopapular rash that begins on the trunk. Management is supportive, and the prognosis is excellent."
-}
+},
 ];
