@@ -111,7 +111,7 @@ const DIAGNOSIS_BANK = [
   "Septic arthritis",
   "Osteomyelitis",
   "Slipped capital femoral epiphysis",
-  "Legg-Calve-Perthes disease",
+  "Legg-Calvé-Perthes disease (LCP)",
   "Acute laryngotracheitis",
   "Epstein-barr virus (EBV) infection",
   "Minimal change disease (MCD)",
