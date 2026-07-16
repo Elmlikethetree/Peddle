@@ -145,4 +145,88 @@ const PUZZLES = [
   accepted: ["Exanthem subitum", "HHV-6 infection", "Sixth disease"],
   explanation: "Roseola is a benign, self-limited illness most commonly caused by human herpesvirus 6 (HHV-6) infection with a peak prevalence between 7 and 13 months of age. The clinical course of roseola is characteristic: 3-5 days of fever that resolves abruptly and is followed by development of a rash. Most children recover spontaneously without sequelae."
 },
+{
+  id: "2026-07-20",
+  date: "2026-07-20",
+  hints: [
+    "A 6-year-old boy develops widespread hives and facial swelling within minutes of eating a cookie containing peanuts.",
+    "He soon complains of throat tightness, difficulty breathing, and dizziness.",
+    "On examination, he is tachycardic, hypotensive, and has diffuse wheezing with inspiratory stridor.",
+    "Intramuscular epinephrine is administered immediately into the lateral thigh, followed by supportive care.",
+    "His family is discharged with an epinephrine auto-injector and educated on strict allergen avoidance and emergency management."
+  ],
+  answer: "Anaphylaxis",
+  accepted: ["Anaphylactic reaction"],
+  explanation: "Anaphylaxis is a life-threatening systemic hypersensitivity reaction characterized by rapid onset of airway compromise, respiratory distress, hypotension, or involvement of multiple organ systems after exposure to an allergen. Intramuscular epinephrine is the first-line treatment and should never be delayed."
+},
+{
+  id: "2026-07-21",
+  date: "2026-07-21",
+  hints: [
+    "A 15-year-old boy is brought to the emergency department after colliding with another player during a hockey game.",
+    "He did not lose consciousness but is now complaining of headache, dizziness, and nausea.",
+    "His coach reports that he seemed confused immediately after the collision and repeatedly asked the same questions.",
+    "His neurological examination is otherwise normal and there are no signs of skull fracture or focal neurological deficits.",
+    "He is advised to undergo a period of relative physical and cognitive rest followed by a gradual return-to-learn and return-to-play protocol."
+  ],
+  answer: "Concussion",
+  accepted: ["Mild traumatic brain injury", "mTBI"],
+  explanation: "Concussion is a mild traumatic brain injury resulting from biomechanical forces to the head or body. Common symptoms include headache, dizziness, nausea, confusion, and memory impairment. Neuroimaging is not routinely indicated unless red flag features are present. Management includes relative rest followed by a graded return to normal activities."
+},
+{
+  id: "2026-07-22",
+  date: "2026-07-22",
+  hints: [
+    "A previously healthy 4-year-old boy presents with one day of fever and refusal to bear weight on his right leg.",
+    "His parents deny any history of trauma, but they note that he cries whenever his hip is moved.",
+    "On examination, he is febrile and his right hip is held in slight flexion with markedly limited passive range of motion.",
+    "Bloodwork demonstrates elevated inflammatory markers, and ultrasound reveals a hip joint effusion.",
+    "Urgent joint aspiration confirms the diagnosis, and he is treated with intravenous antibiotics and surgical drainage."
+  ],
+  answer: "Septic arthritis",
+  accepted: ["Septic joint", "Bacterial septic arthritis"],
+  explanation: "Septic arthritis is an orthopedic emergency caused by bacterial infection of a joint, most commonly affecting the hip or knee in children. It typically presents with fever, inability to bear weight, severe pain with passive joint movement, and elevated inflammatory markers. Prompt joint aspiration, intravenous antibiotics, and surgical drainage are essential to prevent permanent joint damage."
+},
+{
+  id: "2026-07-23",
+  date: "2026-07-23",
+  hints: [
+    "A 3-year-old boy is referred because he speaks only a few single words and rarely points to share interests with others.",
+    "His parents report that he prefers to play alone and becomes very distressed when his daily routine changes.",
+    "During the visit, he avoids eye contact, does not respond consistently to his name, and repeatedly spins the wheels of a toy car.",
+    "His hearing assessment is normal and there is no history of developmental regression.",
+    "Early intensive behavioral intervention and speech-language therapy are recommended to optimize long-term developmental outcomes."
+  ],
+  answer: "Autism spectrum disorder",
+  accepted: ["Autism", "ASD"],
+  explanation: "Autism spectrum disorder is a neurodevelopmental disorder characterized by persistent deficits in social communication and interaction, along with restricted, repetitive patterns of behavior, interests, or activities. Symptoms typically become apparent in early childhood. Early diagnosis and intervention improve developmental and functional outcomes."
+},
+{
+  id: "2026-07-24",
+  date: "2026-07-24",
+  hints: [
+    "A previously healthy 11-year-old boy presents with abdominal pain that began around his umbilicus earlier that day.",
+    "Over several hours, the pain migrates to the right lower quadrant and becomes progressively more severe.",
+    "He has nausea, one episode of vomiting, and refuses to eat.",
+    "On examination, he has localized tenderness with guarding over McBurney's point and pain when hopping.",
+    "He is admitted for surgical consultation and receives intravenous antibiotics before definitive management."
+  ],
+  answer: "Appendicitis",
+  accepted: ["Acute appendicitis"],
+  explanation: "Acute appendicitis is the most common surgical cause of abdominal pain in children. The classic presentation includes migration of pain from the periumbilical region to the right lower quadrant, anorexia, nausea or vomiting, and localized tenderness. Prompt diagnosis and surgical management reduce the risk of perforation."
+},
+{
+  id: "2026-07-25",
+  date: "2026-07-25",
+  hints: [
+    "A 5-year-old unvaccinated boy presents with four days of high fever, cough, runny nose, and red eyes.",
+    "His parents notice several tiny bluish-white lesions on the inside of his cheeks opposite the molars.",
+    "One day later, he develops a red maculopapular rash that begins on his face and spreads downward to involve his trunk and extremities.",
+    "He appears ill, and examination reveals generalized conjunctivitis but no evidence of bacterial superinfection.",
+    "Public health authorities are notified, and he receives supportive care along with vitamin A supplementation."
+  ],
+  answer: "Measles",
+  accepted: ["Rubeola"],
+  explanation: "Measles (rubeola) is a highly contagious viral illness characterized by the prodrome of fever, cough, coryza, and conjunctivitis, followed by Koplik spots and a cephalocaudal spreading maculopapular rash. Vitamin A is recommended for children with measles because it reduces morbidity and mortality."
+},
 ];
