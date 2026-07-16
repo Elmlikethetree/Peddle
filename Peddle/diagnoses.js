@@ -30,7 +30,7 @@ const DIAGNOSIS_BANK = [
   "Urticaria",
   "Hand, foot, and mouth disease",
   "Herpangina",
-  "Roseola",
+  "Roseola infantum", "Exanthem subitum", "HHV-6 infection", "Sixth disease",
   "Fifth disease",
   "Scarlet fever",
   "Varicella",
