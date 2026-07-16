@@ -135,14 +135,14 @@ const PUZZLES = [
   id: "2026-07-19",
   date: "2026-07-19",
   hints: [
-    "A previously healthy 11-month-old girl is brought to clinic after three days of high fever reaching 40°C.",
-    "Despite the fever, she remained playful and continued drinking fluids with no localizing signs of infection.",
-    "The fever resolves abruptly, and within hours she develops a diffuse pink maculopapular rash that begins on her trunk and spreads to her neck and extremities.",
-    "She is otherwise well appearing, and the rash is non-pruritic and blanches with pressure.",
-    "Her parents are reassured that the illness is self-limited and requires only supportive care."
+    "A previously healthy 10-month-old girl presents with 4 days of high fevers that abruptly defervesced.",
+    "She then develops a rash that is blanching, non-pruritic, and macular/maculopapular.",
+    "The rash started on her neck and trunk and then spread to the face and limbs. It completely resolved after a day and half.",
+    "On exam, she has small erythematous papules on her soft palate and uvula. She is otherwise well and playful.",
+    "Her parents are reassured that no labwork is necessary as the illness is self-limited and treatment is supportive."
   ],
-  answer: "Roseola",
-  accepted: ["Roseola infantum", "Exanthem subitum", "HHV-6 infection"],
-  explanation: "Roseola (exanthem subitum) is most commonly caused by human herpesvirus 6 (HHV-6) and typically affects children between 6 months and 2 years of age. It classically presents with several days of high fever followed by abrupt defervescence and the appearance of a blanching maculopapular rash that begins on the trunk. Management is supportive, and the prognosis is excellent."
+  answer: "Roseola infantum",
+  accepted: ["Exanthem subitum", "HHV-6 infection", "Sixth disease"],
+  explanation: "Roseola is a benign, self-limited illness most commonly caused by human herpesvirus 6 (HHV-6) infection with a peak prevalence between 7 and 13 months of age. The clinical course of roseola is characteristic: 3-5 days of fever that resolves abruptly and is followed by development of a rash. Most children recover spontaneously without sequelae."
 },
 ];
