@@ -129,7 +129,7 @@ const PUZZLES = [
   ],
   answer: "Legg-Calvé-Perthes disease (LCP)",
   accepted: ["Idiopathic avascular necrosis of the hip"],
-  explanation: "Legg-Calvé-Perthes disease is idiopathic avascular necrosis of the femoral head, typically affecting children between 4 and 8 years of age. It presents with an insidious limp, hip or referred knee pain, and restricted hip motion. Early diagnosis and management aim to preserve femoral head sphericity and optimize long-term hip function."
+  explanation: "Legg-Calvé-Perthes disease (LCP) is a syndrome of idiopathic osteonecrosis (avascular necrosis) of the hip. It typically presents as hip pain and/or limp in children between the ages of 3 and 12 years. LCP disease is self-limited, as the femoral head eventually revascularizes and heals. Initial treatment involves activity restriction, NSAIDs, physiotherapy, and if needed, casting or bracing."
 },
 {
   id: "2026-07-19",
