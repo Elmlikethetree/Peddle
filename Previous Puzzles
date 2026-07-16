@@ -1,19 +1,20 @@
 // VASCULAR - Kawasaki (1), 
-// INFECTIOUS - Mono (2),
+// INFECTIOUS - Mono (2), Roseola (8), Measles (14)
 // GENETIC
 // CONGENITAL 
-// NEUROLOGICAL - Simple febrile seizure (5)
+// NEUROLOGICAL - Simple febrile seizure (5), Migraine without aura (6), Concussion (10)
 // HEAD AND NECK 
 // ENDOCRINE 
 // PULMONARY - Croup (3)
 // CARDIAC 
-// ABDOMEN 
+// ABDOMEN - Appendicitis (13)
 // RENAL - Minimal Change Disease (4)
 // LIVER 
 // GU-FEMALE
 // GU-MALE
-// MSK 
+// MSK - LCPD (7), Septic arthritis (11)
 // DERMATOLOGY - Eczema (5)
-// ALLERGY
+// ALLERGY - Anaphylaxis (9)
 // METABOLIC
 // AUTOIMMUNE
+// DEVELOPMENTAL - Autism (12)
