@@ -149,15 +149,15 @@ const PUZZLES = [
   id: "2026-07-20",
   date: "2026-07-20",
   hints: [
-    "A 6-year-old boy develops widespread hives and facial swelling within minutes of eating a cookie containing peanuts.",
-    "He soon complains of throat tightness, difficulty breathing, and dizziness.",
-    "On examination, he is tachycardic, hypotensive, and has diffuse wheezing with inspiratory stridor.",
-    "Intramuscular epinephrine is administered immediately into the lateral thigh, followed by supportive care.",
-    "His family is discharged with an epinephrine auto-injector and educated on strict allergen avoidance and emergency management."
+    "A 3-year-old girl with asthma presents with thirty minutes of worsening shortness of breath.",
+    "She was at a restaurant with her family when her lips started swelling and her skin became very itchy and flushed.", 
+    "On examination, she is borderline hypotensive and there is diffuse wheeze and inspiratory stridor.",
+    "Intramuscular epinephrine is administered and she starts to feel better within 5 minutes.",
+    "She is discharged with an epinephrine auto-injector and educated on strict allergen avoidance and emergency management."
   ],
   answer: "Anaphylaxis",
   accepted: ["Anaphylactic reaction"],
-  explanation: "Anaphylaxis is a life-threatening systemic hypersensitivity reaction characterized by rapid onset of airway compromise, respiratory distress, hypotension, or involvement of multiple organ systems after exposure to an allergen. Intramuscular epinephrine is the first-line treatment and should never be delayed."
+  explanation: "Anaphylaxis is an acute, potentially lethal, multisystem syndrome resulting from the sudden release of mast cell- and basophil-derived mediators into the circulation. It is characterized by rapid onset of skin/mucosal involvement, respiratory compromise, hypotension, gastrointestinal symptoms, and/or end organ dysfunction. Epinephrine is the first and most important treatment for anaphylaxis."
 },
 {
   id: "2026-07-21",
