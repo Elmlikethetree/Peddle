@@ -163,15 +163,14 @@ const PUZZLES = [
   id: "2026-07-21",
   date: "2026-07-21",
   hints: [
-    "A 15-year-old boy is brought to the emergency department after colliding with another player during a hockey game.",
-    "He did not lose consciousness but is now complaining of headache, dizziness, and nausea.",
-    "His coach reports that he seemed confused immediately after the collision and repeatedly asked the same questions.",
-    "His neurological examination is otherwise normal and there are no signs of skull fracture or focal neurological deficits.",
-    "He is advised to undergo a period of relative physical and cognitive rest followed by a gradual return-to-learn and return-to-play protocol."
-  ],
+    "A 13-year-old girl presents with headache, dizziness, and difficulty concentrating after her hockey game today.",
+    "She reports that she collided with another player and briefly lost consciousness.",
+    "She was initially confused after the collision but is now oriented and can recall the events before and after the collision.",
+    "Neuro exam is normal with no signs of skull fracture or focal neurological deficits and she does not undergo any head imaging.",
+    "She is observed for 4 hours in the ED before being sent home with instructions for physical and cognitive rest and gradual return to activities." 
   answer: "Concussion",
-  accepted: ["Mild traumatic brain injury", "mTBI"],
-  explanation: "Concussion is a mild traumatic brain injury resulting from biomechanical forces to the head or body. Common symptoms include headache, dizziness, nausea, confusion, and memory impairment. Neuroimaging is not routinely indicated unless red flag features are present. Management includes relative rest followed by a graded return to normal activities."
+  accepted: ["Mild traumatic brain injury (TBI)"],
+  explanation: "Concussion is a form of TBI induced by biomechanical forces that result in signs and symptoms of neurological impairment that typically resolve spontaneously within 4 weeks of injury. A GCS of 14-15 on exam is classified as a minor TBI (as opposed to moderate or severe). PECARN rules are used to determine whether neuroimaging is required.Management includes relative rest followed by a graded return to normal activities."
 },
 {
   id: "2026-07-22",
