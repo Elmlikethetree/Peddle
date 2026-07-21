@@ -168,6 +168,7 @@ const PUZZLES = [
     "She was initially confused after the collision but is now oriented and can recall the events before and after the collision.",
     "Neuro exam is normal with no signs of skull fracture or focal neurological deficits and she does not undergo any head imaging.",
     "She is observed for 4 hours in the ED before being sent home with instructions for physical and cognitive rest and gradual return to activities." 
+    ],
   answer: "Concussion",
   accepted: ["Mild traumatic brain injury (TBI)"],
   explanation: "Concussion is a form of TBI induced by biomechanical forces that result in signs and symptoms of neurological impairment that typically resolve spontaneously within 4 weeks of injury. A GCS of 14-15 on exam is classified as a minor TBI (as opposed to moderate or severe). PECARN rules are used to determine whether neuroimaging is required.Management includes relative rest followed by a graded return to normal activities."
