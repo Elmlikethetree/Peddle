@@ -177,9 +177,9 @@ const PUZZLES = [
  id: "2026-07-22",
   date: "2026-07-22",
   hints: [
-    "A previously healthy 5-year-old boy with a history of a viral upper respiratory tract infection one week ago presents with limp.”, 
+    "A previously healthy 5-year-old boy with a history of a viral upper respiratory tract infection one week ago presents with limp.", 
     "He complains of mild pain in his left hip and low grade fevers but is otherwise well.",
-    “On exam, he has slight limitation of hip abduction and internal rotation due to pain.",
+    "On exam, he has slight limitation of hip abduction and internal rotation due to pain.",
     "Bloodwork reports a CRP <20 and ultrasound reports bilateral hip effusions.",
     "His symptoms improve over the next several days with Advil and the family is reassured about the excellent prognosis."
   ],
