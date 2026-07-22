@@ -185,6 +185,6 @@ const PUZZLES = [
   ],
   answer: "Transient synovitis",
   accepted: ["Toxic synovitis"],
-  explanation: "Transient synovitis is characterized by pain and limitation of motion in the hip, arising without clear precipitants and resolving gradually with conservative therapy. It typically occurs in children between the ages of 3 and 8 years. While symptoms are typically unilateral, effusions can be present bilaterally in up to 25% of children. NSAIDs are an effective therapy.”
+  explanation: "Transient synovitis is characterized by pain and limitation of motion in the hip, arising without clear precipitants and resolving gradually with conservative therapy. It typically occurs in children between the ages of 3 and 8 years. While symptoms are typically unilateral, effusions can be present bilaterally in up to 25% of children. NSAIDs are an effective therapy."
 },
 ];
