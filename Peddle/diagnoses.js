@@ -115,7 +115,8 @@ const DIAGNOSIS_BANK = [
   "Epstein-barr virus (EBV) infection",
   "Minimal change disease (MCD)",
   "Membranoproliferative glomerulonephritis (MPGN)", 
-  "Focal segmental glomerulosclerosis (FSGS)"
+  "Focal segmental glomerulosclerosis (FSGS)",
+  "Transient synovitis"
 ];
 
 
