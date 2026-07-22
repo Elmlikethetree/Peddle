@@ -174,59 +174,17 @@ const PUZZLES = [
   explanation: "Concussion is a form of TBI induced by biomechanical forces that result in signs and symptoms of neurological impairment that typically resolve spontaneously within 4 weeks of injury. A GCS of 14-15 on exam is classified as a minor TBI (as opposed to moderate or severe). PECARN rules are used to determine whether neuroimaging is required.Management includes relative rest followed by a graded return to normal activities."
 },
 {
-  id: "2026-07-22",
+ id: "2026-07-22",
   date: "2026-07-22",
   hints: [
-    "A previously healthy 4-year-old boy presents with one day of fever and refusal to bear weight on his right leg.",
-    "His parents deny any history of trauma, but they note that he cries whenever his hip is moved.",
-    "On examination, he is febrile and his right hip is held in slight flexion with markedly limited passive range of motion.",
-    "Bloodwork demonstrates elevated inflammatory markers, and ultrasound reveals a hip joint effusion.",
-    "Urgent joint aspiration confirms the diagnosis, and he is treated with intravenous antibiotics and surgical drainage."
+    "A previously healthy 5-year-old boy with a history of a viral upper respiratory tract infection one week ago presents with limp.”, 
+    "He complains of mild pain in his left hip and low grade fevers but is otherwise well.",
+    “On exam, he has slight limitation of hip abduction and internal rotation due to pain.",
+    "Bloodwork reports a CRP <20 and ultrasound reports bilateral hip effusions.",
+    "His symptoms improve over the next several days with Advil and the family is reassured about the excellent prognosis."
   ],
-  answer: "Septic arthritis",
-  accepted: ["Septic joint", "Bacterial septic arthritis"],
-  explanation: "Septic arthritis is an orthopedic emergency caused by bacterial infection of a joint, most commonly affecting the hip or knee in children. It typically presents with fever, inability to bear weight, severe pain with passive joint movement, and elevated inflammatory markers. Prompt joint aspiration, intravenous antibiotics, and surgical drainage are essential to prevent permanent joint damage."
-},
-{
-  id: "2026-07-23",
-  date: "2026-07-23",
-  hints: [
-    "A 3-year-old boy is referred because he speaks only a few single words and rarely points to share interests with others.",
-    "His parents report that he prefers to play alone and becomes very distressed when his daily routine changes.",
-    "During the visit, he avoids eye contact, does not respond consistently to his name, and repeatedly spins the wheels of a toy car.",
-    "His hearing assessment is normal and there is no history of developmental regression.",
-    "Early intensive behavioral intervention and speech-language therapy are recommended to optimize long-term developmental outcomes."
-  ],
-  answer: "Autism spectrum disorder",
-  accepted: ["Autism", "ASD"],
-  explanation: "Autism spectrum disorder is a neurodevelopmental disorder characterized by persistent deficits in social communication and interaction, along with restricted, repetitive patterns of behavior, interests, or activities. Symptoms typically become apparent in early childhood. Early diagnosis and intervention improve developmental and functional outcomes."
-},
-{
-  id: "2026-07-24",
-  date: "2026-07-24",
-  hints: [
-    "A previously healthy 11-year-old boy presents with abdominal pain that began around his umbilicus earlier that day.",
-    "Over several hours, the pain migrates to the right lower quadrant and becomes progressively more severe.",
-    "He has nausea, one episode of vomiting, and refuses to eat.",
-    "On examination, he has localized tenderness with guarding over McBurney's point and pain when hopping.",
-    "He is admitted for surgical consultation and receives intravenous antibiotics before definitive management."
-  ],
-  answer: "Appendicitis",
-  accepted: ["Acute appendicitis"],
-  explanation: "Acute appendicitis is the most common surgical cause of abdominal pain in children. The classic presentation includes migration of pain from the periumbilical region to the right lower quadrant, anorexia, nausea or vomiting, and localized tenderness. Prompt diagnosis and surgical management reduce the risk of perforation."
-},
-{
-  id: "2026-07-25",
-  date: "2026-07-25",
-  hints: [
-    "A 5-year-old unvaccinated boy presents with four days of high fever, cough, runny nose, and red eyes.",
-    "His parents notice several tiny bluish-white lesions on the inside of his cheeks opposite the molars.",
-    "One day later, he develops a red maculopapular rash that begins on his face and spreads downward to involve his trunk and extremities.",
-    "He appears ill, and examination reveals generalized conjunctivitis but no evidence of bacterial superinfection.",
-    "Public health authorities are notified, and he receives supportive care along with vitamin A supplementation."
-  ],
-  answer: "Measles",
-  accepted: ["Rubeola"],
-  explanation: "Measles (rubeola) is a highly contagious viral illness characterized by the prodrome of fever, cough, coryza, and conjunctivitis, followed by Koplik spots and a cephalocaudal spreading maculopapular rash. Vitamin A is recommended for children with measles because it reduces morbidity and mortality."
+  answer: "Transient synovitis",
+  accepted: ["Toxic synovitis"],
+  explanation: "Transient synovitis is characterized by pain and limitation of motion in the hip, arising without clear precipitants and resolving gradually with conservative therapy. It typically occurs in children between the ages of 3 and 8 years. While symptoms are typically unilateral, effusions can be present bilaterally in up to 25% of children. NSAIDs are an effective therapy.”
 },
 ];
