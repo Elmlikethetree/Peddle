@@ -187,4 +187,18 @@ const PUZZLES = [
   accepted: ["Toxic synovitis"],
   explanation: "Transient synovitis is characterized by pain and limitation of motion in the hip, arising without clear precipitants and resolving gradually with conservative therapy. It typically occurs in children between the ages of 3 and 8 years. While symptoms are typically unilateral, effusions can be present bilaterally in up to 25% of children. NSAIDs are an effective therapy."
 },
+  {
+  id: "2026-07-23",
+  date: "2026-07-23",
+  hints: [
+    "A 2-year-old boy is brought in because parents are concerned that he does not respond to his name.", 
+    "Parents describe regressions in his speech-language and social skills with minimal joint attention.", 
+    "He often repeats phrases from TV and becomes distressed when there are changes to his routine.", 
+    "He does not have global developmental delay or visual/auditory concerns.", 
+    "Referrals to early individualized interventions and community-based services are completed once the diagnosis is confirmed."
+  ],
+  answer: "Autism spectrum disorder (ASD)",
+  accepted: ["Autism", "ASD"],
+  explanation: "ASD is a life-long neurodevelopmental disorder, characterized by impairments in social communication, repetitive, restricted patterns of behaviour, and unusual sensory sensitivities or interests. Diagnosis is clinical and based on a detailed history, physical exam, and observation of characteristic behaviours. Timely diagnosis and referral for intensive behavioural and educational interventions at the earliest age possible may lead to better long-term outcomes."
+},
 ];
