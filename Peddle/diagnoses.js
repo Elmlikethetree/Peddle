@@ -126,7 +126,16 @@ const DIAGNOSIS_BANK = [
   "Minimal change disease (MCD)",
   "Membranoproliferative glomerulonephritis (MPGN)", 
   "Focal segmental glomerulosclerosis (FSGS)",
-  "Transient synovitis"
+  "Transient synovitis", 
+  "Appendicitis", 
+  "Malrotation", 
+  "Intussusception", 
+  "Ovarian torsion", 
+  "Ectopic pregnancy", 
+  "Pregnancy", 
+  "Testicular torsion", 
+  "Small bowel obstruction", 
+  "Large bowel obstruction"
 ];
 
 
