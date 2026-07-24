@@ -191,7 +191,7 @@ const PUZZLES = [
   id: "2026-07-23",
   date: "2026-07-23",
   hints: [
-    "A 2-year-old boy is brought in because parents are concerned that he does not respond to his name.", 
+    "A 2 year-old-boy is brought in because parents are concerned that he does not respond to his name.", 
     "Parents describe regressions in his speech-language and social skills with minimal joint attention.", 
     "He often repeats phrases from TV and becomes distressed when there are changes to his routine.", 
     "He does not have global developmental delay or visual/auditory concerns.", 
@@ -201,4 +201,19 @@ const PUZZLES = [
   accepted: ["Autism", "ASD"],
   explanation: "ASD is a life-long neurodevelopmental disorder, characterized by impairments in social communication, repetitive, restricted patterns of behaviour, and unusual sensory sensitivities or interests. Diagnosis is clinical and based on a detailed history, physical exam, and observation of characteristic behaviours. Timely diagnosis and referral for intensive behavioural and educational interventions at the earliest age possible may lead to better long-term outcomes."
 },
+  {
+  id: "2026-07-24",
+  date: "2026-07-24",
+  hints: [
+    "A previously healthy 11-year-old girl presents with a one day history of decreased appetite, nausea, vomiting, and periumbilical pain.",
+    "The pain is exacerbated by walking, jumping, and coughing.",
+    "On exam there is local tenderness in the right lower quadrant with some rigidity of the abdominal wall.",
+    "Her bloodwork reports significantly elevated WBC, ANC, and CRP and her abdominal ultrasound confirms the diagnosis.",
+    "General surgery is consulted and she is admitted and started on IV antibiotics before definitive management."
+  ],
+  answer: "Appendicitis",
+  accepted: ["Acute appendicitis"],
+  explanation: "Acute appendicitis is the most common surgical emergency in children. The classic pattern of clinical findings of appendicitis in adults is less common overall in pediatric patients and may not occur at all in children younger than 5. Delayed diagnosis increases the risk of perforation, peritonitis, and other complications. Most children with uncomplicated appendicitis warrant prompt surgery."
+},
+
 ];
