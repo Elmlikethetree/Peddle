@@ -215,5 +215,32 @@ const PUZZLES = [
   accepted: ["Acute appendicitis"],
   explanation: "Acute appendicitis is the most common surgical emergency in children. The classic pattern of clinical findings of appendicitis in adults is less common overall in pediatric patients and may not occur at all in children younger than 5. Delayed diagnosis increases the risk of perforation, peritonitis, and other complications. Most children with uncomplicated appendicitis warrant prompt surgery."
 },
-
+{
+  id: "2026-07-25",
+  date: "2026-07-25",
+  hints: [
+    "A 5-year-old boy presents with conjunctivitis, rhinitis, and cough after 3 days of fever, malaise, and anorexia.",
+    "Parents note white spots on the inside of his mouth that are beginning to slough off and a new rash on his face.",
+    "The rash is erythematous, maculopapular, and initially blanching. It spreads to the neck, trunk, and extremities.",
+    "He is unimmunized and Public Health is contacted prior to lab results coming back.",
+    "NP swab for RT-PCR, urine PCR, and serology confirm the diagnosis and he receives supportive care with Vitamin A supplementation."
+  ],
+  answer: "Measles",
+  accepted: ["Rubeola"],
+  explanation: "Measles is a severe and highly contagious airborne viral respiratory infection characterized by fever, malaise, cough, coryza (rhinitis), and conjunctivitis, followed by exanthem. Vitamin A deficiency is linked to delayed recovery and increased complications and the infection itself can induce a Vitamin A deficiency so patients are typically supplemented. Of note, Canada lost its measles elimination status recently - in 2025, Canada reported more than 5000 cases; in comparison, Canada reported 147 cases in 2024."
+},
+{
+  id: "2026-07-26",
+  date: "2026-07-26",
+  hints: [
+    "An otherwise healthy 15-year-old boy presents with yellowing of his eyes during his finals season.",
+    "He has had similar episodes over the past year when he doesn’t eat or drink enough before his football games.",
+   "He otherwise feels well and denies any abdominal pain, fever, weight loss, or dark urine.",
+   "Bloodwork reports unconjugated hyperbilirubinemia on repeated testing with normal CBC, haptoglobin, reticulocyte count, blood smear, ALT, AST, and ALP.",
+   "He is reassured that no specific therapy is required."
+  ],
+  answer: "Gilbert syndrome",
+  accepted: ["Gilbert's syndrome"],
+  explanation: "Gilbert syndrome is caused by a defect in the AGT1A1 gene and is the most common inherited disorder of bilirubin glucuronidation with a prevalence of 6-14%. Patients are rarely diagnosed prior to puberty and typically present during adolescence when alterations in sex steroid concentrations affect bilirubin metabolism. Aside from intermittent episodes of jaundice, patients are asymptomatic and may actually have lower mortality rates as compared with the general population."
+},
 ];
