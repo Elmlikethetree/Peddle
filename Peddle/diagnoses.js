@@ -63,8 +63,8 @@ const DIAGNOSIS_BANK = [
   "Aplastic anemia",
   "Immune thrombocytopenic purpura",
   "Leukemia",
-  "Type 1 diabetes mellitus",
-  "Diabetic ketoacidosis",
+  "Type 1 diabetes mellitus (DM)",
+  "Diabetic ketoacidosis (DKA)",
   "Hypoglycemia",
   "Congenital hypothyroidism",
   "Hyperthyroidism",
@@ -135,7 +135,16 @@ const DIAGNOSIS_BANK = [
   "Small bowel obstruction", 
   "Large bowel obstruction", 
   "Cholecystitis",
-  "Pancreatitis"
+  "Pancreatitis", 
+  "Gilbert disease", 
+  "Glucose-6-phosphate dehydrogenase (G6PD) deficiency", 
+  "Tyrosine kinase deficiency", 
+  "Beta thalassemia", 
+  "Sickle cell disease (SCD)", 
+  "Hereditary spherocytosis (HS)",
+  "Crigler-Najjar syndrome", 
+  "Rocky Mountain spotted fever (RMSF)", 
+  "Multisystem inflammatory syndrome in children (MIS-C)"
 ];
 
 
