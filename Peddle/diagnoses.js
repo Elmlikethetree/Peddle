@@ -50,7 +50,7 @@ const DIAGNOSIS_BANK = [
   "Inflammatory bowel disease (IBD)",
   "Urinary tract infection (UTI)",
   "Pyelonephritis",
-  "Vesicoureteral reflux (VUS)",
+  "Vesicoureteral reflux (VUR)",
   "Nephrotic syndrome",
   "Poststreptococcal glomerulonephritis (PSGN)",
   "Henoch-Schonlein purpura (HSP)",
@@ -59,11 +59,11 @@ const DIAGNOSIS_BANK = [
   "Juvenile idiopathic arthritis (JIA)",
   "Systemic lupus erythematosus (SLE)",
   "Iron deficiency anemia (IDA)",
-  "Sickle cell disease (SCD)",
   "Aplastic anemia",
   "Immune thrombocytopenic purpura",
   "Leukemia",
-  "Type 1 diabetes mellitus (DM)",
+  "Type 1 diabetes mellitus (T1DM)",
+  "Type 2 diabetes mellitus (T2DM)",
   "Diabetic ketoacidosis (DKA)",
   "Hypoglycemia",
   "Congenital hypothyroidism",
@@ -132,11 +132,15 @@ const DIAGNOSIS_BANK = [
   "Ectopic pregnancy", 
   "Pregnancy", 
   "Testicular torsion", 
+  "Epididymitis",
+  "Torsion of the appendix testis", 
+  "Incarcerated inguinal hernia", 
+  "Orchitis",
   "Small bowel obstruction", 
   "Large bowel obstruction", 
   "Cholecystitis",
   "Pancreatitis", 
-  "Gilbert disease", 
+  "Gilbert syndrome", 
   "Glucose-6-phosphate dehydrogenase (G6PD) deficiency", 
   "Tyrosine kinase deficiency", 
   "Beta thalassemia", 
@@ -145,6 +149,7 @@ const DIAGNOSIS_BANK = [
   "Crigler-Najjar syndrome", 
   "Rocky Mountain spotted fever (RMSF)", 
   "Multisystem inflammatory syndrome in children (MIS-C)"
+  
 ];
 
 
