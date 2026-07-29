@@ -243,4 +243,32 @@ const PUZZLES = [
   accepted: ["Gilbert's syndrome"],
   explanation: "Gilbert syndrome is caused by a defect in the AGT1A1 gene and is the most common inherited disorder of bilirubin glucuronidation with a prevalence of 6-14%. Patients are rarely diagnosed prior to puberty and typically present during adolescence when alterations in sex steroid concentrations affect bilirubin metabolism. Aside from intermittent episodes of jaundice, patients are asymptomatic and may actually have lower mortality rates as compared with the general population."
 },
+  {
+  id: "2026-07-27",
+  date: "2026-07-27",
+  hints: [
+    "A previously healthy 8-year-old girl presents with several weeks of worsening polyuria, polydipsia, weight loss, and weakness.",
+    "Over the last day she has developed anorexia, nausea, vomiting, and abdominal pain.",
+    "On examination, she is neurologically stable but dehydrated, tachycardic, and tachypneic with deep respirations.",
+    "Labwork reports hyperglycemia, metabolic acidosis with an elevated anion gap, and moderate ketonuria.",
+    "She is admitted for fluid resuscitation, insulin infusion, electrolyte replacement, and monitoring for cerebral edema."
+  ],
+  answer: "Diabetic ketoacidosis (DKA)",
+  accepted: ["DKA"],
+  explanation: "Diabetic ketoacidosis can occur in any patient with an absolute or relative insulin deficiency and is the presenting feature of 40-50% of new cases of Type 1 Diabetes. DKA is defined by hyperglycemia, ketosis, and acidosis. Treatment of DKA includes correction of volume depletion, acidosis, electrolyte imbalances, and hyperglycemia. Up to 1% of children with DKA have clinically significant cerebral injury."
+},
+{
+  id: "2026-07-28",
+  date: "2026-07-28",
+  hints: [
+    "A previously healthy 15-year-old boy awakens with sudden severe constant left testicular pain that radiates to his lower abdomen.",
+    "He reports nausea and vomiting but denies fever, dysuria, urethral discharge, or recent trauma.",
+    "On exam, his left testicle is swollen, firm, exquisitely tender, and slightly elevated.",
+    "The cremasteric reflex is absent on the left side.",
+    "Urology is consulted immediately and manual detorsion is attempted while awaiting surgery."
+  ],
+  answer: "Testicular torsion",
+  accepted: ["Spermatic cord torsion"],
+  explanation: "Testicular torsion is caused by twisting of the spermatic cord which may lead to ischemia of the affected testis. Peak incidence is in adolescence (12-18 years) and the neonatal period. Typical presentation is an abrupt onset of severe testicular pain with nausea and vomiting. Timely diagnosis and surgical treatment are vital for survival of the testis. Colour Doppler ultrasound is helpful when findings are equivocal."
+},
 ];
