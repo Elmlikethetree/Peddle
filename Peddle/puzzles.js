@@ -270,5 +270,19 @@ const PUZZLES = [
   answer: "Testicular torsion",
   accepted: ["Spermatic cord torsion"],
   explanation: "Testicular torsion is caused by twisting of the spermatic cord which may lead to ischemia of the affected testis. Peak incidence is in adolescence (12-18 years) and the neonatal period. Typical presentation is an abrupt onset of severe testicular pain with nausea and vomiting. Timely diagnosis and surgical treatment are vital for survival of the testis. Colour Doppler ultrasound is helpful when findings are equivocal."
+}, 
+{
+  id: "2026-07-29",
+  date: "2026-07-29",
+  hints: [
+    "An otherwise healthy 14-year-old girl presents with palpitations, chest discomfort, fatigue, and lightheadedness.",
+    "She has had similar episodes in the past lasting 10-15 minutes but her current symptoms have been going on for hours.",
+    "On exam, she is stable but tachycardic at 200 BPM with a soft blood pressure. She looks slightly pale and diaphoretic.",
+    "After several vagal maneuvers are attempted and unsuccessful, she is rapidly administered IV adenosine which resolves her symptoms.",
+    "Her ECG afterwards shows short PR intervals (<0.12s) and widened QRS complexes that begin with a slurred, slow upstroke (delta wave)."
+  ],
+  answer: "Wolff-Parkinson-White syndrome (WPW)",
+  accepted: ["Supraventricular tachycardia (SVT)", "Atrioventricular reentrant tachycardia (AVRT)"],
+  explanation: "Only a few patients with a Wolff-Parkinson-White (WPW) pattern on ECG go on to have a symptomatic tachyarrhythmia for a diagnosis of WPW syndrome. The most common tachyarrhythmia is atrioventricular reentrant tachycardia (AVRT) which is a kind of supraventricular tachycardia (SVT). Vagal maneuvers, adenosine, and verapamil are available for acute management. Catheter ablation is preferred for prevention of recurrent arrhythmias though this depends on the patient’s age and severity of symptoms."
 },
 ];
