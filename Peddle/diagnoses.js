@@ -148,7 +148,7 @@ const DIAGNOSIS_BANK = [
   "Hereditary spherocytosis (HS)",
   "Crigler-Najjar syndrome", 
   "Rocky Mountain spotted fever (RMSF)", 
-  "Multisystem inflammatory syndrome in children (MIS-C)"
+  "Multisystem inflammatory syndrome in children (MIS-C)",
   "Wolff-Parkinson-White syndrome (WPW)",
   "Supraventricular tachycardia (SVT)", 
   "Atrioventricular reentrant tachycardia (AVRT)", 
