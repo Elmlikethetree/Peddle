@@ -161,7 +161,12 @@ const DIAGNOSIS_BANK = [
   "Tetralogy of Fallot (ToF)", 
   "Ventricular septal defect (VSD)",
   "Atrial septal defect (ASD)",
-  "Pericarditis"
+  "Pericarditis", 
+  "Retropharyngeal abscess (RPA)", 
+  "Peritonsillar abscess", 
+  "Bacterial tracheitis", 
+  "Epiglottitis", 
+  "Cystic hygroma"
 ];
 
 
