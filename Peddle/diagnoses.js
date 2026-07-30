@@ -149,7 +149,19 @@ const DIAGNOSIS_BANK = [
   "Crigler-Najjar syndrome", 
   "Rocky Mountain spotted fever (RMSF)", 
   "Multisystem inflammatory syndrome in children (MIS-C)"
-  
+  "Wolff-Parkinson-White syndrome (WPW)",
+  "Supraventricular tachycardia (SVT)", 
+  "Atrioventricular reentrant tachycardia (AVRT)", 
+  "Atrioventricular nodal reentrant tachycardia (AVNRT)",
+  "Atrial fibrillation (AF)", 
+  "Aortic stenosis (AS)", 
+  "Peripheral pulmonary stenosis", 
+  "Pulmonary stenosis", 
+  "Coarctation of the aorta (CoA)", 
+  "Tetralogy of Fallot (ToF)", 
+  "Ventricular septal defect (VSD)",
+  "Atrial septal defect (ASD)",
+  "Pericarditis"
 ];
 
 
