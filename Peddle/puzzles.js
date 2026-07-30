@@ -283,6 +283,20 @@ const PUZZLES = [
   ],
   answer: "Wolff-Parkinson-White syndrome (WPW)",
   accepted: ["Supraventricular tachycardia (SVT)", "Atrioventricular reentrant tachycardia (AVRT)"],
-  explanation: "Only a few patients with a Wolff-Parkinson-White (WPW) pattern on ECG go on to have a symptomatic tachyarrhythmia for a diagnosis of WPW syndrome. The most common tachyarrhythmia is atrioventricular reentrant tachycardia (AVRT) which is a kind of supraventricular tachycardia (SVT). Vagal maneuvers, adenosine, and verapamil are available for acute management. Catheter ablation is preferred for prevention of recurrent arrhythmias though this depends on the patient’s age and severity of symptoms."
+  explanation: "Only a few patients with the Wolff-Parkinson-White (WPW) pattern on ECG go on to have a symptomatic tachyarrhythmia for a diagnosis of WPW syndrome. Patients most commonly present in supraventricular tachycardia (SVT), specifically atrioventricular reentrant tachycardia (AVRT). First line management for stable patients includes vagal maneuvers followed by adenosine if needed. Unstable patients should undergo urgent electrical cardioversion. For recurrent arrhythmias, catheter ablation is typically preferred."
+},
+  {
+  id: "2026-07-30",
+  date: "2026-07-30",
+  hints: [
+    "A 3-year-old boy with several days of URTI symptoms presents with fever, pain with neck extension, drooling, and difficulty swallowing.",
+    "He looks ill but does not have signs of an upper airway obstruction.",
+    "On labwork, he has a high WBC and ANC and his throat culture eventually comes back positive for Group A Strep.",
+    "Lateral neck X-ray reports increased prevertebral space and contrast-enhanced CT confirms the diagnosis.",
+    "ENT is consulted urgently and IV antibiotics are started in the ED before the patient is admitted."
+  ],
+  answer: "Retropharyngeal abscess (RPA)",
+  accepted: ["RPA"],
+  explanation: "Retropharyngeal abscesses (RPAs) typically occur after a URTI when retropharyngeal lymphadenitis suppurates and forms an abscess. Peak incidence is 2-4 years of age. Early diagnosis and management are essential as RPAs can be associated with significant morbidity and mortality. All patients require admission for IV antibiotics and some will also need surgical drainage."
 },
 ];
