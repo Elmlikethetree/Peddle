@@ -166,7 +166,15 @@ const DIAGNOSIS_BANK = [
   "Peritonsillar abscess", 
   "Bacterial tracheitis", 
   "Epiglottitis", 
-  "Cystic hygroma"
+  "Cystic hygroma", 
+  "Major depressive disorder (MDD)", 
+  "Persistent depressive disorder (PDD)", "Dysthymia",
+  "Disruptive mood dysregulation disorder (DMDD)", 
+  "Premenstrual dysphoric disorder (PMDD)", 
+  "Bipolar I disorder", 
+  "Bipolar II disorder", 
+  "Generalized anxiety disorder", 
+  "Social anxiety disorder", 
 ];
 
 
