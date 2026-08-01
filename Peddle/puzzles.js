@@ -299,4 +299,18 @@ const PUZZLES = [
   accepted: ["RPA"],
   explanation: "Retropharyngeal abscesses (RPAs) typically occur after a URTI when retropharyngeal lymphadenitis suppurates and forms an abscess. Peak incidence is 2-4 years of age. Early diagnosis and management are essential as RPAs can be associated with significant morbidity and mortality. All patients require admission for IV antibiotics and some will also need surgical drainage."
 },
+  {
+  id: "2026-07-31",
+  date: "2026-07-31",
+  hints: [
+    "A previously healthy 14-year-old girl presents with 2 months of daily low mood, irritability, and decreased interest in her hobbies.",
+    "She also reports missing meals, poor concentration at school, and feeling very tired despite sleeping more than usual.",
+    "She discloses that she was bullied at school earlier this year and feels like she doesn’t have anyone to talk to.",
+    "She denies significant anxiety, intrusive thoughts, hyperactivity, body image concerns, hallucinations, mania, aggression, or substance use.",
+    "A suicide risk assessment is completed and she is referred for psychotherapy while starting an SSRI with close follow-up."
+  ],
+  answer: "Major depressive disorder (MDD)",
+  accepted: ["Depression", "Major depression"],
+  explanation: "The risk for depression increases during childhood with a prevalence of 7% in adolescents. Major depressive disorder is characterized by >2 weeks of depressed or irritable mood and/or loss of interest accompanied by other depressive symptoms causing functional impairment. Pediatric depression is often comorbid with substance use disorders, anxiety disorders, ADHD, ODD, and conduct disorder. Initial treatment for acute unipolar major depression is pharmacotherapy AND psychotherapy."
+},
 ];
