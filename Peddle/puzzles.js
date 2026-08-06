@@ -313,4 +313,18 @@ const PUZZLES = [
   accepted: ["Depression", "Major depression"],
   explanation: "The risk for depression increases during childhood with a prevalence of 7% in adolescents. Major depressive disorder is characterized by >2 weeks of depressed or irritable mood and/or loss of interest accompanied by other depressive symptoms causing functional impairment. Pediatric depression is often comorbid with substance use disorders, anxiety disorders, ADHD, ODD, and conduct disorder. Initial treatment for acute unipolar major depression is pharmacotherapy AND psychotherapy."
 },
+  {
+  id: "2026-08-01",
+  date: "2026-08-01",
+  hints: [
+    "A term newborn male presents with hypotonia and poor Moro reflex on newborn exam.",
+    "The mother is 40 years old and did not have any antenatal care prior to delivery.",
+    "On exam there are upslanting palpebral fissures, epicanthic folds, brachycephaly, and a harsh systolic murmur.",
+    "Fluorescent in situ hybridization (FISH) test and karyotype are done which confirm the diagnosis.",
+    "The family is congratulated on the birth of their baby and provided counselling regarding ongoing health supervision and community resources available."
+  ],
+  answer: "Down syndrome",
+  accepted: ["Trisomy 21"],
+  explanation: "Trisomy 21 is the most common chromosome abnormality among live births and is usually recognized from the characteristic phenotypic features present in the newborn. Clinical diagnosis should be confirmed with a genetic test and a full karyotype should always be done to detect translocations. Common associated medical problems include hearing/vision problems, obstructive sleep apnea, congenital heart disease, and feeding difficulties. Ongoing health supervision is required throughout childhood."
+},
 ];
