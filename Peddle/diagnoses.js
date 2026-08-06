@@ -175,6 +175,8 @@ const DIAGNOSIS_BANK = [
   "Bipolar II disorder", 
   "Generalized anxiety disorder", 
   "Social anxiety disorder", 
+  "Down syndrome", 
+  "Trisomy 21"
 ];
 
 
