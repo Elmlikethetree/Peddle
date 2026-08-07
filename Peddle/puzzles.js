@@ -327,4 +327,18 @@ const PUZZLES = [
   accepted: ["Trisomy 21"],
   explanation: "Trisomy 21 is the most common chromosome abnormality among live births and is usually recognized from the characteristic phenotypic features present in the newborn. Clinical diagnosis should be confirmed with a genetic test and a full karyotype should always be done to detect translocations. Common associated medical problems include hearing/vision problems, obstructive sleep apnea, congenital heart disease, and feeding difficulties. Ongoing health supervision is required throughout childhood."
 },
+{
+  id: "2026-08-02",
+  date: "2026-08-02",
+  hints: [
+    "A 6-week-old term breast-fed infant presents with loose stools containing mucus or streaks of blood.",
+    "They are otherwise well, afebrile, not vomiting, and gaining weight appropriately.",
+    "Exam is normal with no abdominal distention or anal fissures present. No investigations or imaging is indicated.",
+    "Mother is advised to eliminate cow’s milk protein and soy products from her diet if she wants to continue exclusive breastfeeding.",
+    "Mother opts to start an extensively hydrolyzed formula instead and the infant’s symptoms resolve within 3 days which confirms the diagnosis."
+  ],
+  answer: "Cow's milk protein allergy (CMPA)",
+  accepted: ["Food protein-induced allergic proctocolitis (FPIAP)"],
+  explanation: "Food protein-induced allergic proctocolitis (FPIAP) is the most common allergy among infants and the most common presentation for hematochezia in the neonate. FPIAP is a non-IgE mediated allergic reaction in the rectum and colon. The most common trigger is cow’s milk proteins or soy, although eggs, wheat, rice, and other foods can also be triggers. Treatment consists of complete elimination of cow's milk (and/or other suspected antigens) from the diet. FPIAP almost always resolves by one year of age."
+},
 ];
