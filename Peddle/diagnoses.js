@@ -175,8 +175,15 @@ const DIAGNOSIS_BANK = [
   "Bipolar II disorder", 
   "Generalized anxiety disorder", 
   "Social anxiety disorder", 
-  "Down syndrome", 
-  "Trisomy 21"
+  "Down syndrome", "Trisomy 21", 
+  "Food protein-induced allergic proctocolitis (FPIAP)", "Cow's milk protein allergy (CMPA)", 
+  "Food protein-induced enteropathy (FPE)", 
+  "Food protein-induced enterocolitis syndrome (FPIES)", 
+  "Eosinophilic esophagitis", 
+  "Anal fissure", 
+  "Meckel's diverticulum", 
+  "Necrotizing enterocolitis (NEC)", 
+  "Eosinophilic gastroenteritis"
 ];
 
 
