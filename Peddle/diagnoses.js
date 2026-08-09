@@ -183,7 +183,8 @@ const DIAGNOSIS_BANK = [
   "Anal fissure", 
   "Meckel's diverticulum", 
   "Necrotizing enterocolitis (NEC)", 
-  "Eosinophilic gastroenteritis"
+  "Eosinophilic gastroenteritis", 
+  "Retinopathy of prematurity (ROP)", 
 ];
 
 
