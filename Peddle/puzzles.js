@@ -341,4 +341,18 @@ const PUZZLES = [
   accepted: ["Food protein-induced allergic proctocolitis (FPIAP)"],
   explanation: "Food protein-induced allergic proctocolitis (FPIAP) is the most common allergy among infants and the most common presentation for hematochezia in the neonate. FPIAP is a non-IgE mediated allergic reaction in the rectum and colon. The most common trigger is cow’s milk proteins or soy, although eggs, wheat, rice, and other foods can also be triggers. Treatment consists of complete elimination of cow's milk (and/or other suspected antigens) from the diet. FPIAP almost always resolves by one year of age."
 },
+  {
+  id: "2026-08-03",
+  date: "2026-08-03",
+  hints: [
+    "A 3-year-old child, ex-25 weeker, presents with myopia and strabismus.",
+    "Birth weight was <1000g and they were intubated for one week with prolonged periods of hyperoxemia.",
+    "Retinal screening exam in the NICU reported extraretinal neovascularization extending into the vitreous with plus disease in Zone I.",
+    "Retinal ablative therapy with laser photocoagulation is completed within 72 hours to reduce the risk of retinal detachment.",
+    "Regular ophthalmology follow up is done to monitor for the development of long-term vision problems."
+  ],
+  answer: "Retinopathy of prematurity (ROP)",
+  accepted: ["ROP"],
+  explanation: "Retinopathy of prematurity (ROP) is a proliferative disorder of the developing retinal blood vessels in preterm infants and is classified according to location (zones) and severity of abnormal vascularization (stages). Infants born <31 weeks’ GA, birth weight ≤1250g, or having other risk factors are indications for screening retinal exams. First line treatment therapies for moderate to severe ROP include laser photocoagulation and intravitreal injection of anti-VEGF agents."
+},
 ];
