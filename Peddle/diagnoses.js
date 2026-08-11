@@ -204,7 +204,13 @@ const DIAGNOSIS_BANK = [
   "Immune thrombocytopenia (ITP)", 
   "Acute lymphoblastic leukemia (ALL)", 
   "Acute myeloid leukemia (AML)", 
-  "Autoimmune hemolytic anemia (AIHA)"
+  "Autoimmune hemolytic anemia (AIHA)", 
+  "Polycystic ovary syndrome (PCOS)", 
+  "Polyendocrine metabolic ovarian syndrome (PMOS)", 
+  "Physiologic adolescent anovulation", 
+  "Congenital adrenal hyperplasia (CAH)", 
+  "Cushing syndrome", 
+  "Primary ovarian insufficiency"
 ];
 
 
