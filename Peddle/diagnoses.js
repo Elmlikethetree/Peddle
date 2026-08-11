@@ -200,7 +200,11 @@ const DIAGNOSIS_BANK = [
   "Cystic fibrosis (CF)", 
   "Short gut syndrome", 
   "Irritable bowel syndrome (IBS)", 
-  "Shigella infection"
+  "Shigella infection", 
+  "Immune thrombocytopenia (ITP)", 
+  "Acute lymphoblastic leukemia (ALL)", 
+  "Acute myeloid leukemia (AML)", 
+  "Autoimmune hemolytic anemia (AIHA)"
 ];
 
 
