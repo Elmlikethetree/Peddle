@@ -383,4 +383,18 @@ const PUZZLES = [
   accepted: ["ITP"],
   explanation: "Newly diagnosed primary immune thrombocytopenia (ITP) typically occurs in healthy children and can be triggered by a viral infection. It is characterized by immune-mediated destruction of normal platelets. Most children present with mild bruising and petechiae. The most serious complication is intracranial hemorrhage. Most cases are self-limited and observation is recommended for children without active bleeding. For moderate bleeding, a dose of IVIG or a short course of corticosteroids is recommended."
 },
+{
+id: "2026-08-06",
+date: "2026-08-06",
+hints: [
+"A 16-year-old girl presents with a 2 year history of irregular periods.",
+"On exam she is noted to have obesity, moderate hirsutism, acne, and acanthosis nigricans.",
+"There is an elevated free and total testosterone and normal beta-hCG, FSH, LH, TSH, 17OHP, DHEAS, and prolactin.",
+"An ultrasound is not required to make the diagnosis and she is started on a combination oral contraceptive.",
+"She is counselled on lifestyle recommendations and screened for any associated hypertension, diabetes, depression/anxiety, or obstructive sleep apnea."
+],
+answer: "Polycystic ovary syndrome (PCOS)",
+accepted: ["Polyendocrine metabolic ovarian syndrome (PMOS)"],
+explanation: "Polycystic ovarian syndrome (PCOS) is defined as the otherwise unexplained combination of hyperandrogenism (clinical or biochemical), oligo-anovulation, and/or polycystic ovary morphology (PCOM). It is closely associated with obesity and insulin resistance. Ultrasonography of the ovaries is NOT recommended nor required for the diagnosis of PCOS in adolescents. Of note, PCOS is the most common cause of infertility in females. Combination oral contraceptives (COCs) are first-line treatment."
+},
 ];
