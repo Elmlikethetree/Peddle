@@ -370,8 +370,8 @@ const PUZZLES = [
   explanation: "Children are significantly more likely to carry C difficile asymptomatically, even toxin-producing strains. Antibiotic exposure is the main risk factor but is not present in up to 40% of cases. Mild-to-moderate illness is characterized by watery diarrhea, low-grade fever, and mild abdominal pain. Diagnosis involves either a 2-step method (high sensitivity then high specificity test) or nucleic acid amplification tests (NAAT). Treatment typically involves a course of oral metronidazole or vancomycin."
 },
 {
-  id: "2026-08-04",
-  date: "2026-08-04",
+  id: "2026-08-05",
+  date: "2026-08-05",
   hints: [
     "A previously healthy 4-year-old boy with recent viral infection presents with petechial rash, easy bruising, and mild epistaxis.",
     "He does not have fevers, weight loss, night sweats, or bone pain. He is not on any medications.",
