@@ -355,4 +355,18 @@ const PUZZLES = [
   accepted: ["ROP"],
   explanation: "Retinopathy of prematurity (ROP) is a proliferative disorder of the developing retinal blood vessels in preterm infants and is classified according to location (zones) and severity of abnormal vascularization (stages). Infants born <31 weeks’ GA, birth weight ≤1250g, or having other risk factors are indications for screening retinal exams. First line treatment therapies for moderate to severe ROP include laser photocoagulation and intravitreal injection of anti-VEGF agents."
 },
+{
+  id: "2026-08-04",
+  date: "2026-08-04",
+  hints: [
+    "A 9-year-old girl recently treated with a course of clindamycin acutely develops profuse watery diarrhea and abdominal cramping.",
+    "She has a low grade fever and 6-10 watery stools a day with occasional blood or mucus in the stool. She denies nausea/vomiting.",
+    "The white blood cell count and creatinine are normal and there is no significant abdominal tenderness on palpation.",
+    "The diagnosis is confirmed with enzyme immunoassay (EIA) for glutamate dehydrogenase (GDH) followed by the toxin EIA.",
+    "She is treated with a 10 day course of oral Metronidazole."
+  ],
+  answer: "Clostridioides difficile infection (CDI)",
+  accepted: ["CDI"],
+  explanation: "Children are significantly more likely to carry C difficile asymptomatically, even toxin-producing strains. Antibiotic exposure is the main risk factor but is not present in up to 40% of cases. Mild-to-moderate illness is characterized by watery diarrhea, low-grade fever, and mild abdominal pain. Diagnosis involves either a 2-step method (high sensitivity then high specificity test) or nucleic acid amplification tests (NAAT). Treatment typically involves a course of oral metronidazole or vancomycin."
+},
 ];
