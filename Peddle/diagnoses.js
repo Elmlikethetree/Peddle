@@ -185,6 +185,22 @@ const DIAGNOSIS_BANK = [
   "Necrotizing enterocolitis (NEC)", 
   "Eosinophilic gastroenteritis", 
   "Retinopathy of prematurity (ROP)", 
+  "Clostridioides difficile infection (CDI)",
+  "Pseudomembranous colitis", "Fulminant Clostridiodes difficile colitis",
+  "Toxic megacolon", 
+  "Bacterial enteritis", 
+  "Functional diarrhea", 
+  "Lactase deficiency", 
+  "Giardiasis", 
+  "Intestinal tapeworms", 
+  "Amebiasis", 
+  "Cryptosporidiois",
+  "Clostridium perfringens infection", 
+  "Enterotoxigenic E. coli infection", 
+  "Cystic fibrosis (CF)", 
+  "Short gut syndrome", 
+  "Irritable bowel syndrome (IBS)", 
+  "Shigella infection"
 ];
 
 
