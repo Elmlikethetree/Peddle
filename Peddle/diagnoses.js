@@ -145,6 +145,10 @@ const DIAGNOSIS_BANK = [
   "Tyrosine kinase deficiency", 
   "Beta thalassemia", 
   "Sickle cell disease (SCD)", 
+  "Aplastic anemia", 
+  "Splenic sequestration", 
+  "Acute chest syndrome (ACS)",
+  "Vaso-occlusive episodes (VOE)",
   "Hereditary spherocytosis (HS)",
   "Crigler-Najjar syndrome", 
   "Rocky Mountain spotted fever (RMSF)", 
@@ -210,7 +214,11 @@ const DIAGNOSIS_BANK = [
   "Physiologic adolescent anovulation", 
   "Congenital adrenal hyperplasia (CAH)", 
   "Cushing syndrome", 
-  "Primary ovarian insufficiency"
+  "Primary ovarian insufficiency", 
+  "Arterial ischemic stroke (AIS)", 
+  "Cerebral sinovenous thrombosis (CSVT)", 
+  "Perinatal stroke", 
+  "Hemorrhagic stroke"
 ];
 
 
