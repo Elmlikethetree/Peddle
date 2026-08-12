@@ -410,5 +410,19 @@ explanation: "PCOS is defined as the otherwise unexplained combination of hypera
   answer: "Urinary tract infection (UTI)",
   accepted: ["UTI"],
   explanation: "In infants and young children, UTI usually presents with nonspecific symptoms and signs. A urinalysis and urine culture should be done for children <3 years of age with a fever with no apparent source. Only urethral catheterization and suprapubic aspiration are reliable for culture in pre-toilet trained children. Children <2 years of age should have a renal and bladder ultrasound (RBUS) after their first febrile UTI. A voiding cystourethrogram is not indicated with a first febrile UTI when the RBUS is normal."
+},  
+{
+  id: "2026-08-08",
+  date: "2026-08-08",
+  hints: [
+    "A 10-year-old girl with Hb SC sickle cell disease presents with several hours of pallor and abdominal pain.",
+    "On exam, she is tachycardic and has a markedly enlarged and tender spleen.",
+    "On bloodwork, she has a Hb 80 g/L (baseline 115 g/L), reticulocytosis, and mild thrombocytopenia.",
+    "Hematology is consulted and she is admitted where she is cautiously transfused packed RBCs.",
+    "Her symptoms resolve but over the next few years she has recurrent episodes and ultimately undergoes a surgical splenectomy."
+  ],
+  answer: "Splenic sequestration",
+  accepted: ["Splenic sequestration crisis"],
+  explanation: "Splenic sequestration is a complication of sickle cell disease characterized by a rapidly enlarging spleen and an acute drop >20g/L in hemoglobin that commonly occurs before age 5 but can happen at any age, particularly in children with HbSC and HbSBThal+. The mortality rate is as high as 10-15%. The main treatment is cautious blood transfusion because of the risk of hyperviscosity and volume overload due to autotransfusion. Up to half of patients who survive will have a recurrent episode."
 },
 ];
