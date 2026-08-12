@@ -255,7 +255,7 @@ const PUZZLES = [
   ],
   answer: "Diabetic ketoacidosis (DKA)",
   accepted: ["DKA"],
-  explanation: "Diabetic ketoacidosis can occur in any patient with an absolute or relative insulin deficiency and is the presenting feature of 40-50% of new cases of Type 1 Diabetes. DKA is defined by hyperglycemia, ketosis, and acidosis. Treatment of DKA includes correction of volume depletion, acidosis, electrolyte imbalances, and hyperglycemia. Up to 1% of children with DKA have clinically significant cerebral injury."
+  explanation: "DKA can occur in any patient with an absolute or relative insulin deficiency and is the presenting feature of 40-50% of new cases of Type 1 Diabetes. DKA is defined by hyperglycemia, ketosis, and acidosis. Treatment of DKA includes correction of volume depletion, acidosis, electrolyte imbalances, and hyperglycemia. Up to 1% of children with DKA have clinically significant cerebral injury."
 },
 {
   id: "2026-07-28",
@@ -323,8 +323,8 @@ const PUZZLES = [
     "Fluorescent in situ hybridization (FISH) test and karyotype are done which confirm the diagnosis.",
     "The family is congratulated on the birth of their baby and provided counselling regarding ongoing health supervision and community resources available."
   ],
-  answer: "Down syndrome",
-  accepted: ["Trisomy 21"],
+  answer: "Trisomy 21",
+  accepted: ["Down syndrome"],
   explanation: "Trisomy 21 is the most common chromosome abnormality among live births and is usually recognized from the characteristic phenotypic features present in the newborn. Clinical diagnosis should be confirmed with a genetic test and a full karyotype should always be done to detect translocations. Common associated medical problems include hearing/vision problems, obstructive sleep apnea, congenital heart disease, and feeding difficulties. Ongoing health supervision is required throughout childhood."
 },
 {
@@ -337,9 +337,9 @@ const PUZZLES = [
     "Mother is advised to eliminate cow’s milk protein and soy products from her diet if she wants to continue exclusive breastfeeding.",
     "Mother opts to start an extensively hydrolyzed formula instead and the infant’s symptoms resolve within 3 days which confirms the diagnosis."
   ],
-  answer: "Cow's milk protein allergy (CMPA)",
-  accepted: ["Food protein-induced allergic proctocolitis (FPIAP)"],
-  explanation: "Food protein-induced allergic proctocolitis (FPIAP) is the most common allergy among infants and the most common presentation for hematochezia in the neonate. FPIAP is a non-IgE mediated allergic reaction in the rectum and colon. The most common trigger is cow’s milk proteins or soy, although eggs, wheat, rice, and other foods can also be triggers. Treatment consists of complete elimination of cow's milk (and/or other suspected antigens) from the diet. FPIAP almost always resolves by one year of age."
+  answer: "Food protein-induced allergic proctocolitis (FPIAP)",
+  accepted: ["Cow's milk protein allergy (CMPA)"],
+  explanation: "FPIAP is the most common allergy among infants and the most common presentation for hematochezia in the neonate. FPIAP is a non-IgE mediated allergic reaction in the rectum and colon. The most common trigger is cow’s milk proteins or soy, although eggs, wheat, rice, and other foods can also be triggers. Treatment consists of complete elimination of cow's milk (and/or other suspected antigens) from the diet. FPIAP almost always resolves by one year of age."
 },
   {
   id: "2026-08-03",
@@ -353,7 +353,7 @@ const PUZZLES = [
   ],
   answer: "Retinopathy of prematurity (ROP)",
   accepted: ["ROP"],
-  explanation: "Retinopathy of prematurity (ROP) is a proliferative disorder of the developing retinal blood vessels in preterm infants and is classified according to location (zones) and severity of abnormal vascularization (stages). Infants born <31 weeks’ GA, birth weight ≤1250g, or having other risk factors are indications for screening retinal exams. First line treatment therapies for moderate to severe ROP include laser photocoagulation and intravitreal injection of anti-VEGF agents."
+  explanation: "ROP is a proliferative disorder of the developing retinal blood vessels in preterm infants and is classified according to location (zones) and severity of abnormal vascularization (stages). Infants born <31 weeks’ GA, birth weight ≤1250g, or having other risk factors are indications for screening retinal exams. First line treatment therapies for moderate to severe ROP include laser photocoagulation and intravitreal injection of anti-VEGF agents."
 },
 {
   id: "2026-08-04",
@@ -367,7 +367,7 @@ const PUZZLES = [
   ],
   answer: "Clostridioides difficile infection (CDI)",
   accepted: ["CDI"],
-  explanation: "Children are significantly more likely to carry C difficile asymptomatically, even toxin-producing strains. Antibiotic exposure is the main risk factor but is not present in up to 40% of cases. Mild-to-moderate illness is characterized by watery diarrhea, low-grade fever, and mild abdominal pain. Diagnosis involves either a 2-step method (high sensitivity then high specificity test) or nucleic acid amplification tests (NAAT). Treatment typically involves a course of oral metronidazole or vancomycin."
+  explanation: "Children are significantly more likely to carry C. difficile asymptomatically, even toxin-producing strains. Antibiotic exposure is the main risk factor but is not present in up to 40% of cases. Mild-to-moderate illness is characterized by watery diarrhea, low-grade fever, and mild abdominal pain. Diagnosis involves either a 2-step method (high sensitivity then high specificity test) or nucleic acid amplification tests (NAAT). Treatment typically involves a course of oral metronidazole or vancomycin."
 },
 {
   id: "2026-08-05",
@@ -381,7 +381,7 @@ const PUZZLES = [
   ],
   answer: "Immune thrombocytopenia (ITP)",
   accepted: ["ITP"],
-  explanation: "Newly diagnosed primary immune thrombocytopenia (ITP) typically occurs in healthy children and can be triggered by a viral infection. It is characterized by immune-mediated destruction of normal platelets. Most children present with mild bruising and petechiae. The most serious complication is intracranial hemorrhage. Most cases are self-limited and observation is recommended for children without active bleeding. For moderate bleeding, a dose of IVIG or a short course of corticosteroids is recommended."
+  explanation: "Newly diagnosed primary ITP typically occurs in healthy children and can be triggered by a viral infection. It is characterized by immune-mediated destruction of normal platelets. Most children present with mild bruising and petechiae. The most serious complication is intracranial hemorrhage. Most cases are self-limited and observation is recommended for children without active bleeding. For moderate bleeding, a dose of IVIG or a short course of corticosteroids is recommended."
 },
 {
 id: "2026-08-06",
@@ -395,6 +395,20 @@ hints: [
 ],
 answer: "Polycystic ovary syndrome (PCOS)",
 accepted: ["Polyendocrine metabolic ovarian syndrome (PMOS)"],
-explanation: "Polycystic ovarian syndrome (PCOS) is defined as the otherwise unexplained combination of hyperandrogenism (clinical or biochemical), oligo-anovulation, and/or polycystic ovary morphology (PCOM). It is closely associated with obesity and insulin resistance. Ultrasonography of the ovaries is NOT recommended nor required for the diagnosis of PCOS in adolescents. Of note, PCOS is the most common cause of infertility in females. Combination oral contraceptives (COCs) are first-line treatment."
+explanation: "PCOS is defined as the otherwise unexplained combination of hyperandrogenism (clinical or biochemical), oligo-anovulation, and/or polycystic ovary morphology. It is closely associated with obesity and insulin resistance. Ultrasonography of the ovaries is NOT recommended nor required for the diagnosis of PCOS in adolescents. Of note, PCOS is the most common cause of infertility in females. Combination oral contraceptives (COCs) are first-line treatment."
+},
+{
+  id: "2026-08-07",
+  date: "2026-08-07",
+  hints: [
+    "A previously healthy 6-month-old boy presents with 2 days of fever >39.0°C with no apparent source.",
+    "He does not have rhinitis, cough, wheezing, rash or diarrhea. He examines well and is uncircumcised.",
+    "He is catheterized and the urine dipstick is positive for nitrites and leukocyte esterase and urinalysis reports pyuria.",
+    "He starts a 10 day empiric course of Cefixime. Urine culture comes back positive for E.coli the next day.",
+    "His fever resolves quickly. As an outpatient, he completes a renal and bladder ultrasound and it is normal."
+  ],
+  answer: "Urinary tract infection (UTI)",
+  accepted: ["UTI"],
+  explanation: "In infants and young children, UTI usually presents with nonspecific symptoms and signs. A urinalysis and urine culture should be done for children <3 years of age with a fever with no apparent source. Only urethral catheterization and suprapubic aspiration are reliable for culture in pre-toilet trained children. Children <2 years of age should have a renal and bladder ultrasound (RBUS) after their first febrile UTI. A voiding cystourethrogram is not indicated with a first febrile UTI when the RBUS is normal."
 },
 ];
