@@ -425,4 +425,18 @@ explanation: "PCOS is defined as the otherwise unexplained combination of hypera
   accepted: ["Splenic sequestration crisis"],
   explanation: "Splenic sequestration is a complication of sickle cell disease characterized by a rapidly enlarging spleen and an acute drop >20g/L in hemoglobin that commonly occurs before age 5 but can happen at any age, particularly in children with HbSC and HbSBThal+. The mortality rate is as high as 10-15%. The main treatment is cautious blood transfusion because of the risk of hyperviscosity and volume overload due to autotransfusion. Up to half of patients who survive will have a recurrent episode."
 },
+  {
+  id: "2026-08-09",
+  date: "2026-08-09",
+  hints: [
+    "A 2-year-old girl presents with 2 months of morning limp and swelling of her bilateral knees and left ankle.",
+    "She is not vocalizing pain and there is no history of injury or illness. There is no family history of psoriasis.",
+    "On exam there is no fever, rash, erythema, nail changes, lymphadenopathy, or hepatosplenomegaly.",
+    "On bloodwork, ANA is positive. CRP and ESR are mildly elevated. CBC, ENA panel, RF, and anti-CCP antibodies are negative.",
+    "She is referred to rheumatology and ophthalmology and started on methotrexate, folic acid, intraarticular steroid injections, and NSAIDs for pain."
+  ],
+  answer: "Oligoarticular juvenile idiopathic arthritis (JIA)",
+  accepted: ["JIA"],
+  explanation: "Oligoarticular JIA is defined by ≤4 peripheral joints during the first 6 months of disease. It is the most common JIA subtype with a peak incidence between 2-3 years. Many patients present with limping rather than pain. Labwork findings are non-specific but help exclude other diagnoses, establish a baseline, and assess for poor prognostic factors. Patients with a positive ANA are at the highest risk of anterior uveitis, which is frequently asymptomatic, so ophthalmological screening is essential."
+},
 ];
