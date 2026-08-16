@@ -222,7 +222,11 @@ const DIAGNOSIS_BANK = [
   "Arterial ischemic stroke (AIS)", 
   "Cerebral sinovenous thrombosis (CSVT)", 
   "Perinatal stroke", 
-  "Hemorrhagic stroke"
+  "Hemorrhagic stroke", 
+  "Dextro-transposition of the great arteries (D-TGA)", 
+  "Total anomalous pulmonary venous connection (TAPVC)", 
+  "Truncus arteriosus", 
+  "Hypoplastic left heart syndrome"
 ];
 
 
