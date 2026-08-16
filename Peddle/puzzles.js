@@ -439,4 +439,18 @@ explanation: "PCOS is defined as the otherwise unexplained combination of hypera
   accepted: ["JIA"],
   explanation: "Oligoarticular JIA is defined by ≤4 peripheral joints during the first 6 months of disease. It is the most common JIA subtype with a peak incidence between 2-3 years. Many patients present with limping rather than pain. Labwork findings are non-specific but help exclude other diagnoses, establish a baseline, and assess for poor prognostic factors. Patients with a positive ANA are at the highest risk of anterior uveitis, which is frequently asymptomatic, so ophthalmological screening is essential."
 },
+  {
+  id: "2026-08-10",
+  date: "2026-08-10",
+  hints: [
+    "A term newborn develops severe progressive cyanosis and tachypnea that does not respond to supplemental oxygen in the first hour of life.",
+    "On exam, there are no prominent murmurs or diminished pulses. Aside from tachypnea, there are no signs of respiratory distress.",
+    "Chest X-ray and ECG are largely normal. Echocardiogram confirms the diagnosis.",
+    "An IV infusion of prostaglandin E1 is started before the patient is transferred out to a tertiary cardiac care centre.",
+    "The patient undergoes an arterial switch operation within the first 2 weeks of life."
+  ],
+  answer: "Dextro-transposition of the great arteries (D-TGA)",
+  accepted: ["TGA"],
+  explanation: "Dextro-transposition of the great arteries (D-TGA) is a cyanotic congenital heart defect in which the aorta arises from the right ventricle and the pulmonary artery arises from the left ventricle creating parallel circulations. D-TGA is difficult to detect prenatally by fetal ultrasound and many infants present postnatally. Of note, the classic radiographic “egg-on-a-string” sign is typically not seen right after birth. Prostaglandin infusion is essential to maintain patency of the ductus arteriosus."
+},
 ];
