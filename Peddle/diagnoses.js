@@ -65,7 +65,6 @@ const DIAGNOSIS_BANK = [
   "Iron deficiency anemia (IDA)",
   "Aplastic anemia",
   "Immune thrombocytopenic purpura",
-  "Leukemia",
   "Type 1 diabetes mellitus (T1DM)",
   "Type 2 diabetes mellitus (T2DM)",
   "Diabetic ketoacidosis (DKA)",
