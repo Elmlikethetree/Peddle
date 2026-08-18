@@ -209,8 +209,6 @@ const DIAGNOSIS_BANK = [
   "Irritable bowel syndrome (IBS)", 
   "Shigella infection", 
   "Immune thrombocytopenia (ITP)", 
-  "Acute lymphoblastic leukemia (ALL)", 
-  "Acute myeloid leukemia (AML)", 
   "Autoimmune hemolytic anemia (AIHA)", 
   "Polycystic ovary syndrome (PCOS)", 
   "Polyendocrine metabolic ovarian syndrome (PMOS)", 
