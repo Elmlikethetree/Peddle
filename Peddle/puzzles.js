@@ -453,4 +453,18 @@ explanation: "PCOS is defined as the otherwise unexplained combination of hypera
   accepted: ["TGA"],
   explanation: "Dextro-transposition of the great arteries (D-TGA) is a cyanotic congenital heart defect in which the aorta arises from the right ventricle and the pulmonary artery arises from the left ventricle creating parallel circulations. D-TGA is difficult to detect prenatally by fetal ultrasound and many infants present postnatally. Of note, the classic radiographic “egg-on-a-string” sign is typically not seen right after birth. Prostaglandin infusion is essential to maintain patency of the ductus arteriosus."
 },
+  {
+  id: "2026-08-11",
+  date: "2026-08-11",
+  hints: [
+    "A previously healthy 4-year-old boy presents with several weeks of fatigue, intermittent fever, weight loss, and bone pain.",
+    "On exam he has mild pallor, petechial rash, cervical lymphadenopathy, and hepatosplenomegaly. Neuro exam is normal.",
+    "Bloodwork reports anemia, thrombocytopenia, and neutropenia with normal WBC. There are blasts on peripheral smear.",
+    "A bone marrow aspirate confirms the diagnosis. The event free survival rate is ~90%.",
+    "He is admitted to pediatric oncology and started on a targeted multi-agent induction chemotherapy."
+  ],
+  answer: "Acute lymphoblastic leukemia/lymphoblastic lymphoma (ALL/LBL)",
+  accepted: ["ALL"],
+  explanation: "Acute lymphoblastic leukemia (ALL) is often grouped with lymphoblastic lymphoma (LBL) as they are overlapping clinical presentations of the same disease. ALL/LBL is the most common cancer in children and of those cases, 85% of them are B-cell lineage. The most common symptoms result from the proliferation of leukemic blasts in the bone marrow, preventing normal production of RBCs, platelets, and neutrophils. Morphologic analysis and flow cytometry are used to evaluate the bone marrow for diagnosis."
+},
 ];
