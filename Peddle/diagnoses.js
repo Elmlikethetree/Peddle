@@ -226,7 +226,14 @@ const DIAGNOSIS_BANK = [
   "Dextro-transposition of the great arteries (D-TGA)", 
   "Total anomalous pulmonary venous connection (TAPVC)", 
   "Truncus arteriosus", 
-  "Hypoplastic left heart syndrome"
+  "Hypoplastic left heart syndrome", 
+  "Acute lymphoblastic leukemia/lymphoblastic lymphoma (ALL/LBL)", 
+  "Burkitt lymphoma (BL)", 
+  "Acute myeloid leukemia (AML)", 
+  "Chronic myeloid leukemia (CML)", 
+  "Small round blue cell tumors", 
+  "Ewing sarcoma (ES)", 
+  "Human immunodeficiency virus (HIV)"
 ];
 
 
