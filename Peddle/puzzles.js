@@ -481,4 +481,18 @@ explanation: "PCOS is defined as the otherwise unexplained combination of hypera
   accepted: ["45,X syndrome"],
   explanation: "TS is a sex chromosome disorder that affects phenotypic female individuals who have one intact X chromosome and complete or partial absence of the second sex chromosome. The clinical manifestations include characteristic facial appearance, neck webbing, peripheral lymphedema, short stature, pubertal delay, early sensorineural hearing loss, distinctive congenital cardiovascular, skeletal and renal anomalies, and a particular neurodevelopmental profile. Karyotype is the gold standard for diagnosis."
 },
+  {
+  id: "2026-08-13",
+  date: "2026-08-13",
+  hints: [
+    "An immunized 7-year-old boy presents with 4 days of worsening fever with rigors, cough, and malaise.",
+    "On exam he is febrile and tachypneic with an O2 sat of 95% on room air. There is some increased work of breathing.",
+    "On auscultation there are decreased breath sounds and crackles over the left lower lobe.",
+    "Bloodwork reports an elevated WBC, ANC, and CRP. Chest Xray reports left lower lobe consolidation with air bronchograms.",
+    "He is given a 5 day course of high dose oral amoxicillin and his symptoms improve within 2-3 days."
+  ],
+  answer: "Community-acquired pneumonia (CAP)",
+  accepted: ["Pneumonia", "CAP"],
+  explanation: "The most common cause of pneumonia in infants and preschool children are viruses. The most common bacterial pathogen is Streptococcus pneumoniae. The symptoms may be nonspecific but fever and cough are nearly universal. When the diagnosis of bacterial pneumonia is highly suspected based on history and physical and the child does not require hospitalization, chest Xray and labwork are not essential. Treatment is typically 5 days for outpatients/mild cases and 7-10 days for inpatients/more severe cases."
+},
 ];
