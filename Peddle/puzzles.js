@@ -467,4 +467,18 @@ explanation: "PCOS is defined as the otherwise unexplained combination of hypera
   accepted: ["ALL"],
   explanation: "Acute lymphoblastic leukemia (ALL) is often grouped with lymphoblastic lymphoma (LBL) as they are overlapping clinical presentations of the same disease. ALL/LBL is the most common cancer in children and of those cases, 85% of them are B-cell lineage. The most common symptoms result from the proliferation of leukemic blasts in the bone marrow, preventing normal production of RBCs, platelets, and neutrophils. Morphologic analysis and flow cytometry are used to evaluate the bone marrow for diagnosis."
 },
+  {
+  id: "2026-08-12",
+  date: "2026-08-12",
+  hints: [
+    "A 14-year-old girl presents with short stature and amenorrhea.",
+    "As a child, she had a history of poor growth and recurrent ear infections.",
+    "On exam she has a short broad neck with webbing, micrognathia, dental malocclusion, kyphosis, and short limbs.", 
+    "Bloodwork reports FSH, LH, and estradiol levels in keeping with gonadal failure. Karyotype confirms the diagnosis.",
+    "Her initial work up includes a kidney ultrasound and a referral to cardiology and endocrinology."
+  ],
+  answer: "Turner syndrome (TS)",
+  accepted: ["45,X syndrome"],
+  explanation: "TS is a sex chromosome disorder that affects phenotypic female individuals who have one intact X chromosome and complete or partial absence of the second sex chromosome. The clinical manifestations include characteristic facial appearance, neck webbing, peripheral lymphedema, short stature, pubertal delay, early sensorineural hearing loss, distinctive congenital cardiovascular, skeletal and renal anomalies, and a particular neurodevelopmental profile. Karyotype is the gold standard for diagnosis."
+},
 ];
