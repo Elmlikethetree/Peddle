@@ -230,7 +230,15 @@ const DIAGNOSIS_BANK = [
   "Chronic myeloid leukemia (CML)", 
   "Small round blue cell tumors", 
   "Ewing sarcoma (ES)", 
-  "Human immunodeficiency virus (HIV)"
+  "Human immunodeficiency virus (HIV)", 
+  "Turner syndrome (TS)",
+  "Familial short stature", 
+  "Constitutional delay of growth and puberty", 
+  "Growth hormone deficiency", 
+  "Cushing syndrome", 
+  "Noonan syndrome", 
+  "Achondroplasia", 
+  "Osteogenesis imperfecta"
 ];
 
 
