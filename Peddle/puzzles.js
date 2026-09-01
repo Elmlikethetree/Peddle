@@ -58,7 +58,7 @@ const PUZZLES = [
     "He improves after receiving nebulized epinephrine and a dose of dexamethasone."
   ],
   answer: "Croup",
-  accepted: ["Acute laryngotracheitis"],
+  accepted: ["Acute laryngotracheitis", "Viral upper respiratory tract infection (URTI)"],
   explanation: "Croup is a respiratory illness characterized by inspiratory stridor, barking cough, and hoarseness resulting from inflammation in the larynx and subglottic airway, most commonly caused by parainfluenza virus. It occurs mostly in fall/early winter in children ≤6 years old, with a peak incidence between 6 months to 3 years of age. Treatment includes dexamethasone for all severities and nebulized epinephrine for moderate to severe disease."
 },
 {
