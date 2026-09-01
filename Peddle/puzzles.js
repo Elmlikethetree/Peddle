@@ -495,4 +495,18 @@ explanation: "PCOS is defined as the otherwise unexplained combination of hypera
   accepted: ["Pneumonia", "CAP"],
   explanation: "The most common cause of pneumonia in infants and preschool children are viruses. The most common bacterial pathogen is Streptococcus pneumoniae. The symptoms may be nonspecific but fever and cough are nearly universal. When the diagnosis of bacterial pneumonia is highly suspected based on history and physical and the child does not require hospitalization, chest Xray and labwork are not essential. Treatment is typically 5 days for outpatients/mild cases and 7-10 days for inpatients/more severe cases."
 },
+  {
+  id: "2026-08-14",
+  date: "2026-08-14",
+  hints: [
+    "A 2 year old boy presents with abnormal posturing on his right side when walking.",
+"On exam he has increased tone and abnormal flexion in his right limbs with low tone in his trunk and neck.",
+"He was born term and had a prolonged NICU stay for neonatal stroke.",
+"The diagnosis is made clinically. Early intervention is essential and he is seen by a multidisciplinary team including PT, OT, and SLP.",
+"He is later diagnosed with epilepsy, ID, speech and language impairment, feeding difficulties, chronic pain, and vision problems."
+  ],
+  answer: "Spastic hemiplegia cerebral palsy (CP)",
+  accepted: ["CP"],
+  explanation: "CP refers to a heterogeneous group of non-progressive neurodevelopmental conditions characterized by impairments in motor function that limit activity and are caused by a disturbance to the developing fetal or infant brain. CP can be classified by limb distribution, hypertonia or movement disorder type, or function using the GMFCS levels. In this case, spastic hemiplegia affects one side of the body. Care is centered around the 6 F's - function, family, fitness, fun, friends, and future."
+},
 ];
