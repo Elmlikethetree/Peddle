@@ -244,7 +244,9 @@ const DIAGNOSIS_BANK = [
   "Cushing syndrome", 
   "Noonan syndrome", 
   "Achondroplasia", 
-  "Osteogenesis imperfecta"
+  "Osteogenesis imperfecta", 
+  "Benign neonatal hyperbilirubinemia",
+  "Physiologic jaundice"
 ];
 
 
